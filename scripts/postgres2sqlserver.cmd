@@ -1,3 +1,4 @@
+REM - Kopiering af spordata fra original Postgres database til ny SQL Server database vha. OGR2OGR
 @echo on
 chcp 65001
 set OSGEO4W_ROOT=D:\bo\spor2db\gdal
