@@ -1,0 +1,1820 @@
+2020/06/28 13:56:42 Starting OSGeo4W install, version 2.579
+2020/06/28 13:56:42 using locales .1252
+2020/06/28 13:56:42 Current Directory: C:\Users\BOVICT~1\AppData\Local\Temp
+2020/06/28 13:56:42 Root Directory: C:\OSGeo4W64
+2020/06/28 13:56:42 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2020/06/28 13:56:49 source: network install
+2020/06/28 13:57:04 mbox note: The install directory must be absolute, with both a drive letter and leading slash, like C:\OSGeo4W
+2020/06/28 13:57:18 root: d:\gdal
+2020/06/28 13:57:20 Selected local directory: C:\Users\BOVICT~1\AppData\Local\Temp
+2020/06/28 13:57:20 Menu name: OSGeo4W
+2020/06/28 13:57:21 net: Direct
+Loaded cached mirror list
+get_url_to_membuf http://download.osgeo.org/osgeo4w/mirrors.lst
+getUrlToStream http://download.osgeo.org/osgeo4w/mirrors.lst
+2020/06/28 13:57:23 site: http://download.osgeo.org/osgeo4w/
+get_url_to_membuf http://download.osgeo.org/osgeo4w/x86_64/setup.ini.bz2
+getUrlToStream http://download.osgeo.org/osgeo4w/x86_64/setup.ini.bz2
+2020/06/28 13:57:24 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+ The package <gdal-dev-ecw-3.2.0-58> has a non-free license it was successfully added 
+ The package <gdal-dev-ecw-3.2.0-57> has a non-free license it was successfully added 
+ The package <gdal-dev-filegdb-3.2.0-58> has a non-free license it was successfully added 
+ The package <gdal-dev-filegdb-3.2.0-57> has a non-free license it was successfully added 
+ The package <gdal-dev-mrsid-3.2.0-58> has a non-free license it was successfully added 
+ The package <gdal-dev-mrsid-3.2.0-57> has a non-free license it was successfully added 
+ The package <gdal-ecw-3.0.4-2> has a non-free license it was successfully added 
+ The package <gdal-ecw-3.0.4-1> has a non-free license it was successfully added 
+ The package <gdal-filegdb-3.0.4-2> has a non-free license it was successfully added 
+ The package <gdal-filegdb-3.0.4-1> has a non-free license it was successfully added 
+ The package <gdal-mrsid-3.0.4-2> has a non-free license it was successfully added 
+ The package <gdal-mrsid-3.0.4-1> has a non-free license it was successfully added 
+ The package <gdal2-ecw-2.4.3-1> has a non-free license it was successfully added 
+ The package <gdal2-filegdb-2.4.3-1> has a non-free license it was successfully added 
+ The package <gdal2-mrsid-2.4.3-1> has a non-free license it was successfully added 
+ The package <giflib-5.1.4-1> has a non-free license it was successfully added 
+ The package <hdf4-4.2.14-1> has a non-free license it was successfully added 
+ The package <hdf5-1.10.4-1> has a non-free license it was successfully added 
+ The package <hdf5-1.10.5-1> has a non-free license it was successfully added 
+ The package <libwebp-1.0.2-1> has a non-free license it was successfully added 
+ The package <netcdf-4.7.3-1> has a non-free license it was successfully added 
+ The package <oci-12.1.0.1.0-1> has a non-free license it was successfully added 
+ The package <oci-devel-12.1.0.1.0-1> has a non-free license it was successfully added 
+ The package <proj-bwta2017-1.0-1> has a non-free license it was successfully added 
+ The package <sqlncli-2012-1> has a non-free license it was successfully added 
+ The package <szip-2.1.1-1> has a non-free license it was successfully added 
+ The package <szip-2.1-1> has a non-free license it was successfully added 
+2020/06/28 13:57:24 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2020/06/28 14:01:28 Adding required dependency curl: Selecting version 7.67.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency curl-ca-bundle: Selecting version 20191119-1 for installation.
+2020/06/28 14:01:28 Adding required dependency expat: Selecting version 2.1.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency freexl: Selecting version 1.0.2-1 for installation.
+2020/06/28 14:01:28 Adding required dependency geos: Selecting version 3.8.1-1 for installation.
+2020/06/28 14:01:28 Adding required dependency hdf4: Selecting version 4.2.14-1 for installation.
+2020/06/28 14:01:28 Adding required dependency hdf5: Selecting version 1.10.4-1 for installation.
+2020/06/28 14:01:28 Adding required dependency iconv: Selecting version 1.14-1 for installation.
+2020/06/28 14:01:28 Adding required dependency iconv-vc14: Selecting version 1.15-1 for installation.
+2020/06/28 14:01:28 Adding required dependency libjpeg: Selecting version 6b-4 for installation.
+2020/06/28 14:01:28 Adding required dependency libjpeg12: Selecting version 6b-4 for installation.
+2020/06/28 14:01:28 Adding required dependency liblwgeom: Selecting version 3.0.0-2 for installation.
+2020/06/28 14:01:28 Adding required dependency libmysql: Selecting version 6.1.9-1 for installation.
+2020/06/28 14:01:28 Adding required dependency libpng: Selecting version 1.6.3-1 for installation.
+2020/06/28 14:01:28 Adding required dependency libpng-vc14: Selecting version 1.6.29-1 for installation.
+2020/06/28 14:01:28 Adding required dependency libpq: Selecting version 11.5-1 for installation.
+2020/06/28 14:01:28 Adding required dependency libtiff: Selecting version 4.0.8-1 for installation.
+2020/06/28 14:01:28 Adding required dependency libxml2: Selecting version 2.9.1-1 for installation.
+2020/06/28 14:01:28 Adding required dependency msvc2015: Selecting version 1.0.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency msvcrt: Selecting version 1.0.3-1 for installation.
+2020/06/28 14:01:28 Adding required dependency msvcrt2008: Selecting version 1.0.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency msvcrt2010: Selecting version 1.0.0-2 for installation.
+2020/06/28 14:01:28 Adding required dependency msvcrt2015: Selecting version 1.0-2 for installation.
+2020/06/28 14:01:28 Adding required dependency netcdf: Selecting version 4.7.3-1 for installation.
+2020/06/28 14:01:28 Adding required dependency ogdi: Selecting version 4.1.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency openjpeg: Selecting version 2.3.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency openssl: Selecting version 1.1.1d-2 for installation.
+2020/06/28 14:01:28 Adding required dependency openssl10: Selecting version 1.0.2j-1 for installation.
+2020/06/28 14:01:28 Adding required dependency proj: Selecting version 6.3.2-1 for installation.
+2020/06/28 14:01:28 Adding required dependency proj-datumgrid: Selecting version 1.8-1 for installation.
+2020/06/28 14:01:28 Adding required dependency proj-dev: Selecting version 7.1.0-75 for installation.
+2020/06/28 14:01:28 Adding required dependency proj-dev-data: Selecting version 1.1-20 for installation.
+2020/06/28 14:01:28 Adding required dependency proj-hpgn: Selecting version 1.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency setup: Selecting version 1.0.7-16 for installation.
+2020/06/28 14:01:28 Adding required dependency shell: Selecting version 1.0.2-4 for installation.
+2020/06/28 14:01:28 Adding required dependency spatialite: Selecting version 4.3.0a-6 for installation.
+2020/06/28 14:01:28 Adding required dependency sqlite3: Selecting version 3.29.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency szip: Selecting version 2.1.1-1 for installation.
+2020/06/28 14:01:28 Adding required dependency xerces-c: Selecting version 3.2.0-1 for installation.
+2020/06/28 14:01:28 Adding required dependency xz: Selecting version 5.2.3-1 for installation.
+2020/06/28 14:01:28 Adding required dependency zlib: Selecting version 1.2.8-1 for installation.
+2020/06/28 14:01:28 Adding required dependency zstd: Selecting version 1.4.4-1 for installation.
+get_url_to_membuf http://download.osgeo.org/osgeo4w/x86_64/release/hdf4/hdf4-4.2.14-1.txt
+getUrlToStream http://download.osgeo.org/osgeo4w/x86_64/release/hdf4/hdf4-4.2.14-1.txt
+Using remote path: http://download.osgeo.org/osgeo4w/x86_64/release/hdf4/hdf4-4.2.14-1.txt
+saving file locally in file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf4/hdf4-4.2.14-1.txt
+saving file locally in file://d:\gdal/etc/licenses/hdf4-4.2.14-1.txt
+get_url_to_membuf http://download.osgeo.org/osgeo4w/x86_64/release/hdf5/hdf5-1.10.4-1.txt
+getUrlToStream http://download.osgeo.org/osgeo4w/x86_64/release/hdf5/hdf5-1.10.4-1.txt
+Using remote path: http://download.osgeo.org/osgeo4w/x86_64/release/hdf5/hdf5-1.10.4-1.txt
+saving file locally in file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf5/hdf5-1.10.4-1.txt
+saving file locally in file://d:\gdal/etc/licenses/hdf5-1.10.4-1.txt
+get_url_to_membuf http://download.osgeo.org/osgeo4w/x86_64/release/hdf5/hdf5-1.10.4-1.txt
+getUrlToStream http://download.osgeo.org/osgeo4w/x86_64/release/hdf5/hdf5-1.10.4-1.txt
+Using remote path: http://download.osgeo.org/osgeo4w/x86_64/release/hdf5/hdf5-1.10.4-1.txt
+saving file locally in file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf5/hdf5-1.10.4-1.txt
+saving file locally in file://d:\gdal/etc/licenses/hdf5-1.10.4-1.txt
+get_url_to_membuf http://download.osgeo.org/osgeo4w/x86_64/release/netcdf/netcdf-4.7.3-1.txt
+getUrlToStream http://download.osgeo.org/osgeo4w/x86_64/release/netcdf/netcdf-4.7.3-1.txt
+Using remote path: http://download.osgeo.org/osgeo4w/x86_64/release/netcdf/netcdf-4.7.3-1.txt
+saving file locally in file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/netcdf/netcdf-4.7.3-1.txt
+saving file locally in file://d:\gdal/etc/licenses/netcdf-4.7.3-1.txt
+get_url_to_membuf http://download.osgeo.org/osgeo4w/x86_64/release/szip/szip-2.1.1-1.txt
+getUrlToStream http://download.osgeo.org/osgeo4w/x86_64/release/szip/szip-2.1.1-1.txt
+Using remote path: http://download.osgeo.org/osgeo4w/x86_64/release/szip/szip-2.1.1-1.txt
+saving file locally in file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/szip/szip-2.1.1-1.txt
+saving file locally in file://d:\gdal/etc/licenses/szip-2.1.1-1.txt
+get_url_to_membuf http://download.osgeo.org/osgeo4w/x86_64/release/szip/szip-2.1.1-1.txt
+getUrlToStream http://download.osgeo.org/osgeo4w/x86_64/release/szip/szip-2.1.1-1.txt
+Using remote path: http://download.osgeo.org/osgeo4w/x86_64/release/szip/szip-2.1.1-1.txt
+saving file locally in file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/szip/szip-2.1.1-1.txt
+saving file locally in file://d:\gdal/etc/licenses/szip-2.1.1-1.txt
+1: restricted package hdf4-4.2.14-1 [ee01384266367063f3fa7c221c87c794, not yet accepted]
+2: restricted package hdf5-1.10.4-1 [106bcadf06f1d36b417baffe40ded960, not yet accepted]
+3: restricted package netcdf-4.7.3-1 [17c864f08a4445fe9c41226785e9ed10, not yet accepted]
+4: restricted package szip-2.1.1-1 [9dae8922da18cc6bf19260f90bee3aba, not yet accepted]
+43 packages selected, 4 restricted selected, 0 accepted.
+2020/06/28 14:01:31 License file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf4/hdf4-4.2.14-1.txt successfully loaded.
+license hdf4 accepted [ee01384266367063f3fa7c221c87c794]
+You must agree to the licenses of all restrictive packages that you chose. hdf5 not accepted.
+1: restricted package hdf4-4.2.14-1 [ee01384266367063f3fa7c221c87c794, accepted]
+2: restricted package hdf5-1.10.4-1 [106bcadf06f1d36b417baffe40ded960, not yet accepted]
+3: restricted package netcdf-4.7.3-1 [17c864f08a4445fe9c41226785e9ed10, not yet accepted]
+4: restricted package szip-2.1.1-1 [9dae8922da18cc6bf19260f90bee3aba, not yet accepted]
+43 packages selected, 4 restricted selected, 1 accepted.
+2020/06/28 14:01:36 License file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf5/hdf5-1.10.4-1.txt successfully loaded.
+license hdf5 accepted [106bcadf06f1d36b417baffe40ded960]
+license hdf5 accepted [106bcadf06f1d36b417baffe40ded960]
+You must agree to the licenses of all restrictive packages that you chose. netcdf not accepted.
+1: restricted package hdf4-4.2.14-1 [ee01384266367063f3fa7c221c87c794, accepted]
+2: restricted package hdf5-1.10.4-1 [106bcadf06f1d36b417baffe40ded960, accepted]
+3: restricted package netcdf-4.7.3-1 [17c864f08a4445fe9c41226785e9ed10, not yet accepted]
+4: restricted package szip-2.1.1-1 [9dae8922da18cc6bf19260f90bee3aba, not yet accepted]
+43 packages selected, 4 restricted selected, 2 accepted.
+2020/06/28 14:01:39 License file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/netcdf/netcdf-4.7.3-1.txt successfully loaded.
+license netcdf accepted [17c864f08a4445fe9c41226785e9ed10]
+You must agree to the licenses of all restrictive packages that you chose. szip not accepted.
+1: restricted package hdf4-4.2.14-1 [ee01384266367063f3fa7c221c87c794, accepted]
+2: restricted package hdf5-1.10.4-1 [106bcadf06f1d36b417baffe40ded960, accepted]
+3: restricted package netcdf-4.7.3-1 [17c864f08a4445fe9c41226785e9ed10, accepted]
+4: restricted package szip-2.1.1-1 [9dae8922da18cc6bf19260f90bee3aba, not yet accepted]
+43 packages selected, 4 restricted selected, 3 accepted.
+2020/06/28 14:01:43 License file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/szip/szip-2.1.1-1.txt successfully loaded.
+license szip accepted [9dae8922da18cc6bf19260f90bee3aba]
+license szip accepted [9dae8922da18cc6bf19260f90bee3aba]
+All restrictive packages were accepted
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/curl/curl-7.67.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-7.67.0-1.tar.bz2.tmp
+2020/06/28 14:01:48 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-7.67.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/curl/curl-ca-bundle/curl-ca-bundle-20191119-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-ca-bundle/curl-ca-bundle-20191119-1.tar.bz2.tmp
+2020/06/28 14:01:49 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-ca-bundle/curl-ca-bundle-20191119-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/expat/expat-2.1.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/expat/expat-2.1.0-1.tar.bz2.tmp
+2020/06/28 14:01:50 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/expat/expat-2.1.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/freexl/freexl-1.0.2-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/freexl/freexl-1.0.2-1.tar.bz2.tmp
+2020/06/28 14:01:51 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/freexl/freexl-1.0.2-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/gdal/gdal-dev/gdal-dev-3.2.0-58.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/gdal/gdal-dev/gdal-dev-3.2.0-58.tar.bz2.tmp
+2020/06/28 14:01:59 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/gdal/gdal-dev/gdal-dev-3.2.0-58.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/geos/geos-3.8.1-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/geos/geos-3.8.1-1.tar.bz2.tmp
+2020/06/28 14:02:01 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/geos/geos-3.8.1-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/hdf4/hdf4-4.2.14-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf4/hdf4-4.2.14-1.tar.bz2.tmp
+2020/06/28 14:02:02 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf4/hdf4-4.2.14-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/hdf5/hdf5-1.10.4-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf5/hdf5-1.10.4-1.tar.bz2.tmp
+2020/06/28 14:02:15 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf5/hdf5-1.10.4-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/iconv/iconv-1.14-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv/iconv-1.14-1.tar.bz2.tmp
+2020/06/28 14:02:17 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv/iconv-1.14-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/iconv-vc14/iconv-vc14-1.15-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv-vc14/iconv-vc14-1.15-1.tar.bz2.tmp
+2020/06/28 14:02:18 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv-vc14/iconv-vc14-1.15-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/libjpeg/libjpeg/libjpeg-6b-4.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg/libjpeg-6b-4.tar.bz2.tmp
+2020/06/28 14:02:19 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg/libjpeg-6b-4.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/libjpeg/libjpeg12/libjpeg12-6b-4.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg12/libjpeg12-6b-4.tar.bz2.tmp
+2020/06/28 14:02:20 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg12/libjpeg12-6b-4.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/liblwgeom/liblwgeom-3.0.0-2.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/liblwgeom/liblwgeom-3.0.0-2.tar.bz2.tmp
+2020/06/28 14:02:22 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/liblwgeom/liblwgeom-3.0.0-2.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/libmysql/libmysql-6.1.9-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libmysql/libmysql-6.1.9-1.tar.bz2.tmp
+2020/06/28 14:02:25 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libmysql/libmysql-6.1.9-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/libpng/libpng-1.6.3-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng/libpng-1.6.3-1.tar.bz2.tmp
+2020/06/28 14:02:26 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng/libpng-1.6.3-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/libpng-vc14/libpng-vc14-1.6.29-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng-vc14/libpng-vc14-1.6.29-1.tar.bz2.tmp
+2020/06/28 14:02:27 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng-vc14/libpng-vc14-1.6.29-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/libpq/libpq-11.5-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpq/libpq-11.5-1.tar.bz2.tmp
+2020/06/28 14:02:28 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpq/libpq-11.5-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/libtiff/libtiff-4.0.8-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libtiff/libtiff-4.0.8-1.tar.bz2.tmp
+2020/06/28 14:02:30 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libtiff/libtiff-4.0.8-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/libxml2/libxml2-2.9.1-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libxml2/libxml2-2.9.1-1.tar.bz2.tmp
+2020/06/28 14:02:32 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libxml2/libxml2-2.9.1-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/_obsolete/msvc2015/msvc2015-1.0.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/_obsolete/msvc2015/msvc2015-1.0.0-1.tar.bz2.tmp
+2020/06/28 14:02:33 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/_obsolete/msvc2015/msvc2015-1.0.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/msvcrt/msvcrt-1.0.3-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt-1.0.3-1.tar.bz2.tmp
+2020/06/28 14:02:35 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt-1.0.3-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/msvcrt/msvcrt2008/msvcrt2008-1.0.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2008/msvcrt2008-1.0.0-1.tar.bz2.tmp
+2020/06/28 14:02:40 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2008/msvcrt2008-1.0.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/msvcrt/msvcrt2010/msvcrt2010-1.0.0-2.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2010/msvcrt2010-1.0.0-2.tar.bz2.tmp
+2020/06/28 14:02:44 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2010/msvcrt2010-1.0.0-2.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/msvcrt/msvcrt2015/msvcrt2015-1.0-2.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2015/msvcrt2015-1.0-2.tar.bz2.tmp
+2020/06/28 14:02:56 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2015/msvcrt2015-1.0-2.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/netcdf/netcdf-4.7.3-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/netcdf/netcdf-4.7.3-1.tar.bz2.tmp
+2020/06/28 14:02:57 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/netcdf/netcdf-4.7.3-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/ogdi/ogdi-4.1.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/ogdi/ogdi-4.1.0-1.tar.bz2.tmp
+2020/06/28 14:02:58 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/ogdi/ogdi-4.1.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/openjpeg/openjpeg-2.3.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openjpeg/openjpeg-2.3.0-1.tar.bz2.tmp
+2020/06/28 14:02:59 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openjpeg/openjpeg-2.3.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/openssl/openssl-1.1.1d-2.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl-1.1.1d-2.tar.bz2.tmp
+2020/06/28 14:03:02 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl-1.1.1d-2.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/openssl/openssl10/openssl10-1.0.2j-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl10/openssl10-1.0.2j-1.tar.bz2.tmp
+2020/06/28 14:03:04 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl10/openssl10-1.0.2j-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/proj/proj-6.3.2-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-6.3.2-1.tar.bz2.tmp
+2020/06/28 14:03:08 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-6.3.2-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/proj/proj-datumgrid/proj-datumgrid-1.8-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-datumgrid/proj-datumgrid-1.8-1.tar.bz2.tmp
+2020/06/28 14:03:15 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-datumgrid/proj-datumgrid-1.8-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/proj/proj-dev/proj-dev-7.1.0-75.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev/proj-dev-7.1.0-75.tar.bz2.tmp
+2020/06/28 14:03:20 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev/proj-dev-7.1.0-75.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/proj/proj-dev-data/proj-dev-data-1.1-20.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev-data/proj-dev-data-1.1-20.tar.bz2.tmp
+2020/06/28 14:07:05 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev-data/proj-dev-data-1.1-20.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/proj/proj-hpgn/proj-hpgn-1.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-hpgn/proj-hpgn-1.0-1.tar.bz2.tmp
+2020/06/28 14:07:06 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-hpgn/proj-hpgn-1.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/setup/setup-1.0.7-16.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/setup/setup-1.0.7-16.tar.bz2.tmp
+2020/06/28 14:07:07 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/setup/setup-1.0.7-16.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/shell/shell-1.0.2-4.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/shell/shell-1.0.2-4.tar.bz2.tmp
+2020/06/28 14:07:08 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/shell/shell-1.0.2-4.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/spatialite/spatialite-4.3.0a-6.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/spatialite/spatialite-4.3.0a-6.tar.bz2.tmp
+2020/06/28 14:07:15 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/spatialite/spatialite-4.3.0a-6.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/sqlite3/sqlite3-3.29.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/sqlite3/sqlite3-3.29.0-1.tar.bz2.tmp
+2020/06/28 14:07:17 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/sqlite3/sqlite3-3.29.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/szip/szip-2.1.1-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/szip/szip-2.1.1-1.tar.bz2.tmp
+2020/06/28 14:07:17 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/szip/szip-2.1.1-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/xerces-c/xerces-c-3.2.0-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xerces-c/xerces-c-3.2.0-1.tar.bz2.tmp
+2020/06/28 14:07:19 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xerces-c/xerces-c-3.2.0-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/xz/xz-5.2.3-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xz/xz-5.2.3-1.tar.bz2.tmp
+2020/06/28 14:07:20 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xz/xz-5.2.3-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/zlib/zlib-1.2.8-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zlib/zlib-1.2.8-1.tar.bz2.tmp
+2020/06/28 14:07:21 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zlib/zlib-1.2.8-1.tar.bz2
+get_url_to_file http://download.osgeo.org/osgeo4w//x86_64/release/zstd/zstd-1.4.4-1.tar.bz2 C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zstd/zstd-1.4.4-1.tar.bz2.tmp
+2020/06/28 14:07:22 Downloaded C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zstd/zstd-1.4.4-1.tar.bz2
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-7.67.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-7.67.0-1.tar.bz2 2de1f93a6b086f5272eec553bca72e92
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-ca-bundle/curl-ca-bundle-20191119-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-ca-bundle/curl-ca-bundle-20191119-1.tar.bz2 d7168cc4c6723a49ab558ac6a0fd29c7
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/expat/expat-2.1.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/expat/expat-2.1.0-1.tar.bz2 60bb0e5ba78e2d4b87dbdda0ca9dcef2
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/freexl/freexl-1.0.2-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/freexl/freexl-1.0.2-1.tar.bz2 fe974cbd10225c7ccc693dd7faef594d
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/gdal/gdal-dev/gdal-dev-3.2.0-58.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/gdal/gdal-dev/gdal-dev-3.2.0-58.tar.bz2 0436c16ed2b77b63e7682942f0c4f6a8
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/geos/geos-3.8.1-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/geos/geos-3.8.1-1.tar.bz2 ae451b630485113557553361b621f32d
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf4/hdf4-4.2.14-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf4/hdf4-4.2.14-1.tar.bz2 a05084a2267def6d59a0702c614ed61e
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf5/hdf5-1.10.4-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf5/hdf5-1.10.4-1.tar.bz2 f50f893aef978e5a055f806f1edeef52
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv/iconv-1.14-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv/iconv-1.14-1.tar.bz2 d5e71014388f54f131bf197d50740f96
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv-vc14/iconv-vc14-1.15-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv-vc14/iconv-vc14-1.15-1.tar.bz2 820c81b5131896d6409a3ae065e6d0a0
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg/libjpeg-6b-4.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg/libjpeg-6b-4.tar.bz2 5428b605ef1512d4411d009d32f48246
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg12/libjpeg12-6b-4.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg12/libjpeg12-6b-4.tar.bz2 7f288b1cee195d0131f55fbdd36e8a15
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/liblwgeom/liblwgeom-3.0.0-2.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/liblwgeom/liblwgeom-3.0.0-2.tar.bz2 3c45de505ed0f44716bf141cfc4f09f8
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libmysql/libmysql-6.1.9-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libmysql/libmysql-6.1.9-1.tar.bz2 d139e045099d0eb04ecad68780373b27
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng/libpng-1.6.3-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng/libpng-1.6.3-1.tar.bz2 d04f6bda61917ec79b844ae0cb3101e8
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng-vc14/libpng-vc14-1.6.29-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng-vc14/libpng-vc14-1.6.29-1.tar.bz2 a25b1102a728eb8cdfc0530665aec0f9
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpq/libpq-11.5-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpq/libpq-11.5-1.tar.bz2 8702629f7cbaaf4f24d15b839333c721
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libtiff/libtiff-4.0.8-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libtiff/libtiff-4.0.8-1.tar.bz2 f2b823a195436333f576e7ad916b7591
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libxml2/libxml2-2.9.1-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libxml2/libxml2-2.9.1-1.tar.bz2 2def4d12e2969c01da45a752428c02b7
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/_obsolete/msvc2015/msvc2015-1.0.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/_obsolete/msvc2015/msvc2015-1.0.0-1.tar.bz2 bff8d283a49157bc5766769bf0d6b3cb
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt-1.0.3-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt-1.0.3-1.tar.bz2 55a5b8b9a4204eefbc8eae075bd4a78f
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2008/msvcrt2008-1.0.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2008/msvcrt2008-1.0.0-1.tar.bz2 432ad651a1c401513912749cc90dca66
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2010/msvcrt2010-1.0.0-2.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2010/msvcrt2010-1.0.0-2.tar.bz2 4909547dec4eb6db922912858b5802a5
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2015/msvcrt2015-1.0-2.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2015/msvcrt2015-1.0-2.tar.bz2 2a353218d4a014ae78c7d984b087af5e
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/netcdf/netcdf-4.7.3-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/netcdf/netcdf-4.7.3-1.tar.bz2 5e6c5cdbb7f331f68a216a0ec3748a4b
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/ogdi/ogdi-4.1.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/ogdi/ogdi-4.1.0-1.tar.bz2 c2589a7829bfa71ad562b7520c80ddd7
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openjpeg/openjpeg-2.3.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openjpeg/openjpeg-2.3.0-1.tar.bz2 c12737b7cfc2719e4935a344aab489f4
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl-1.1.1d-2.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl-1.1.1d-2.tar.bz2 dd19d3455009a06aa4068ee0862deeea
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl10/openssl10-1.0.2j-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl10/openssl10-1.0.2j-1.tar.bz2 23122b4b73c8e4c624c906b60ecfdf00
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-6.3.2-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-6.3.2-1.tar.bz2 c63f7b0b8b84d41a242cb6468a42dc22
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-datumgrid/proj-datumgrid-1.8-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-datumgrid/proj-datumgrid-1.8-1.tar.bz2 ad76c52dbe3bda40eadc5c33c5bac442
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev/proj-dev-7.1.0-75.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev/proj-dev-7.1.0-75.tar.bz2 6a2080881e9014c0965d4621a9032210
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev-data/proj-dev-data-1.1-20.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev-data/proj-dev-data-1.1-20.tar.bz2 f55feb8044fa33f8a3c23ece3f6538af
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-hpgn/proj-hpgn-1.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-hpgn/proj-hpgn-1.0-1.tar.bz2 3142edcd0d73e44f52f9e793088df267
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/setup/setup-1.0.7-16.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/setup/setup-1.0.7-16.tar.bz2 dd8477c124d48144c2671e1aca766f5c
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/shell/shell-1.0.2-4.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/shell/shell-1.0.2-4.tar.bz2 5b42d3e5c946bccaa1313ee768fd5694
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/spatialite/spatialite-4.3.0a-6.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/spatialite/spatialite-4.3.0a-6.tar.bz2 6ee75c1a1209f43b0365ba8e1d6a8d24
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/sqlite3/sqlite3-3.29.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/sqlite3/sqlite3-3.29.0-1.tar.bz2 3afb96de826240086a557558ab2aae51
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/szip/szip-2.1.1-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/szip/szip-2.1.1-1.tar.bz2 4d40d95fb2bb094cc14d8fb0ca7f02d2
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xerces-c/xerces-c-3.2.0-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xerces-c/xerces-c-3.2.0-1.tar.bz2 7c5d95c1aa2b3aa9784fcca1e3c8de32
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xz/xz-5.2.3-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xz/xz-5.2.3-1.tar.bz2 ece67f6c2c2fa740dc5404fd01d5b493
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zlib/zlib-1.2.8-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zlib/zlib-1.2.8-1.tar.bz2 5420fd8b9782b01cac239abb6526e237
+Checking MD5 for file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zstd/zstd-1.4.4-1.tar.bz2
+MD5 verified OK: file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zstd/zstd-1.4.4-1.tar.bz2 2f08843ea46d9e9b2716c359e8824f18
+2020/06/28 14:07:37 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-7.67.0-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/curl.exe
+Installing file cygfile:///bin/curl.pdb
+Installing file cygfile:///bin/libcurl.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/curl/
+Installing file cygfile:///include/curl/curl.h
+Installing file cygfile:///include/curl/curlver.h
+Installing file cygfile:///include/curl/easy.h
+Installing file cygfile:///include/curl/mprintf.h
+Installing file cygfile:///include/curl/multi.h
+Installing file cygfile:///include/curl/stdcheaders.h
+Installing file cygfile:///include/curl/system.h
+Installing file cygfile:///include/curl/typecheck-gcc.h
+Installing file cygfile:///include/curl/urlapi.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/libcurl.exp
+Installing file cygfile:///lib/libcurl.lib
+Installing file cygfile:///lib/libcurl.pdb
+2020/06/28 14:07:37 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/curl/curl-ca-bundle/curl-ca-bundle-20191119-1.tar.bz2
+Installing file cygfile:///bin/curl-ca-bundle.crt
+2020/06/28 14:07:37 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/expat/expat-2.1.0-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/expat.dll
+Installing file cygfile:///bin/xmlwf.exe
+Installing file cygfile:///include/
+Installing file cygfile:///include/expat.h
+Installing file cygfile:///include/expat_external.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/expat.lib
+Installing file cygfile:///lib/pkgconfig/
+Installing file cygfile:///lib/pkgconfig/expat.pc
+2020/06/28 14:07:37 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/freexl/freexl-1.0.2-1.tar.bz2
+Installing file cygfile:///bin/freexl.dll
+Installing file cygfile:///include/freexl.h
+Installing file cygfile:///lib/freexl_i.lib
+2020/06/28 14:07:37 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/gdal/gdal-dev/gdal-dev-3.2.0-58.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/gdal-dev-env.bat
+Installing file cygfile:///apps/gdal-dev/bin/
+Installing file cygfile:///apps/gdal-dev/bin/gdal302.dll
+Installing file cygfile:///apps/gdal-dev/bin/gdaladdo.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdalbuildvrt.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdaldem.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdalenhance.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdalinfo.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdallocationinfo.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdalmanage.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdalmdiminfo.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdalmdimtranslate.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdalplugins/
+Installing file cygfile:///apps/gdal-dev/bin/gdalsrsinfo.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdaltindex.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdaltransform.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdalwarp.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdal_contour.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdal_grid.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdal_rasterize.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdal_translate.exe
+Installing file cygfile:///apps/gdal-dev/bin/gdal_viewshed.exe
+Installing file cygfile:///apps/gdal-dev/bin/gnmanalyse.exe
+Installing file cygfile:///apps/gdal-dev/bin/gnmmanage.exe
+Installing file cygfile:///apps/gdal-dev/bin/nearblack.exe
+Installing file cygfile:///apps/gdal-dev/bin/ogr2ogr.exe
+Installing file cygfile:///apps/gdal-dev/bin/ogrinfo.exe
+Installing file cygfile:///apps/gdal-dev/bin/ogrlineref.exe
+Installing file cygfile:///apps/gdal-dev/bin/ogrtindex.exe
+Installing file cygfile:///apps/gdal-dev/bin/testepsg.exe
+Installing file cygfile:///apps/gdal-dev/include/
+Installing file cygfile:///apps/gdal-dev/include/armadillo_headers.h
+Installing file cygfile:///apps/gdal-dev/include/cplkeywordparser.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_alibaba_oss.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_atomic_ops.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_auto_close.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_aws.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_azure.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_config.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_config_extras.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_conv.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_cpu_features.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_csv.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_error.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_error_internal.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_google_cloud.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_hash_set.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_http.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_json.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_json_header.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_json_streaming_parser.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_json_streaming_writer.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_list.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_md5.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_mem_cache.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_minixml.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_minizip_ioapi.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_minizip_unzip.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_minizip_zip.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_multiproc.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_odbc.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_port.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_progress.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_quad_tree.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_sha1.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_sha256.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_spawn.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_string.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_swift.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_time.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_userfaultfd.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_vax.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_virtualmem.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_vsi.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_vsil_curl_class.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_vsil_curl_priv.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_vsil_plugin.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_vsi_error.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_vsi_virtual.h
+Installing file cygfile:///apps/gdal-dev/include/cpl_worker_thread_pool.h
+Installing file cygfile:///apps/gdal-dev/include/gdal.h
+Installing file cygfile:///apps/gdal-dev/include/gdalexif.h
+Installing file cygfile:///apps/gdal-dev/include/gdalgeorefpamdataset.h
+Installing file cygfile:///apps/gdal-dev/include/gdalgrid.h
+Installing file cygfile:///apps/gdal-dev/include/gdalgrid_priv.h
+Installing file cygfile:///apps/gdal-dev/include/gdaljp2abstractdataset.h
+Installing file cygfile:///apps/gdal-dev/include/gdaljp2metadata.h
+Installing file cygfile:///apps/gdal-dev/include/gdaljp2metadatagenerator.h
+Installing file cygfile:///apps/gdal-dev/include/gdallinearsystem.h
+Installing file cygfile:///apps/gdal-dev/include/gdalpansharpen.h
+Installing file cygfile:///apps/gdal-dev/include/gdalpython.h
+Installing file cygfile:///apps/gdal-dev/include/gdalsse_priv.h
+Installing file cygfile:///apps/gdal-dev/include/gdalwarper.h
+Installing file cygfile:///apps/gdal-dev/include/gdalwarpkernel_opencl.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_alg.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_alg_priv.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_csv.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_frmts.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_mdreader.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_pam.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_priv.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_proxy.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_rat.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_simplesurf.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_thread_pool.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_utils.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_version.h
+Installing file cygfile:///apps/gdal-dev/include/gdal_vrt.h
+Installing file cygfile:///apps/gdal-dev/include/gnm.h
+Installing file cygfile:///apps/gdal-dev/include/gnmgraph.h
+Installing file cygfile:///apps/gdal-dev/include/gnm_api.h
+Installing file cygfile:///apps/gdal-dev/include/gvgcpfit.h
+Installing file cygfile:///apps/gdal-dev/include/internal_qhull_headers.h
+Installing file cygfile:///apps/gdal-dev/include/memdataset.h
+Installing file cygfile:///apps/gdal-dev/include/ograpispy.h
+Installing file cygfile:///apps/gdal-dev/include/ogrgeomediageometry.h
+Installing file cygfile:///apps/gdal-dev/include/ogrpgeogeometry.h
+Installing file cygfile:///apps/gdal-dev/include/ogrsf_frmts.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_api.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_attrind.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_core.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_expat.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_feature.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_featurestyle.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_geocoding.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_geometry.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_geos.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_geo_utils.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_libs.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_p.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_proj_p.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_sfcgal.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_spatialref.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_srs_api.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_srs_esri_names.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_swq.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_xerces.h
+Installing file cygfile:///apps/gdal-dev/include/ogr_xerces_headers.h
+Installing file cygfile:///apps/gdal-dev/include/rawdataset.h
+Installing file cygfile:///apps/gdal-dev/include/thinplatespline.h
+Installing file cygfile:///apps/gdal-dev/include/vrtdataset.h
+Installing file cygfile:///apps/gdal-dev/lib/
+Installing file cygfile:///apps/gdal-dev/lib/gdal_i.lib
+Installing file cygfile:///apps/gdal-dev/share/
+Installing file cygfile:///apps/gdal-dev/share/gdal/
+Installing file cygfile:///apps/gdal-dev/share/gdal/bag_template.xml
+Installing file cygfile:///apps/gdal-dev/share/gdal/cubewerx_extra.wkt
+Installing file cygfile:///apps/gdal-dev/share/gdal/default.rsc
+Installing file cygfile:///apps/gdal-dev/share/gdal/ecw_cs.wkt
+Installing file cygfile:///apps/gdal-dev/share/gdal/eedaconf.json
+Installing file cygfile:///apps/gdal-dev/share/gdal/epsg.wkt
+Installing file cygfile:///apps/gdal-dev/share/gdal/esri_StatePlane_extra.wkt
+Installing file cygfile:///apps/gdal-dev/share/gdal/gdalicon.png
+Installing file cygfile:///apps/gdal-dev/share/gdal/GDALLogoBW.svg
+Installing file cygfile:///apps/gdal-dev/share/gdal/GDALLogoColor.svg
+Installing file cygfile:///apps/gdal-dev/share/gdal/GDALLogoGS.svg
+Installing file cygfile:///apps/gdal-dev/share/gdal/gdalmdiminfo_output.schema.json
+Installing file cygfile:///apps/gdal-dev/share/gdal/gdalvrt.xsd
+Installing file cygfile:///apps/gdal-dev/share/gdal/gmlasconf.xml
+Installing file cygfile:///apps/gdal-dev/share/gdal/gmlasconf.xsd
+Installing file cygfile:///apps/gdal-dev/share/gdal/gml_registry.xml
+Installing file cygfile:///apps/gdal-dev/share/gdal/gt_datum.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/gt_ellips.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/header.dxf
+Installing file cygfile:///apps/gdal-dev/share/gdal/inspire_cp_BasicPropertyUnit.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/inspire_cp_CadastralBoundary.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/inspire_cp_CadastralParcel.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/inspire_cp_CadastralZoning.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_AdmArea.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_AdmBdry.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_AdmPt.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_BldA.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_BldL.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_Cntr.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_CommBdry.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_CommPt.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_Cstline.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_ElevPt.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_GCP.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_LeveeEdge.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_RailCL.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_RdArea.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_RdASL.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_RdCompt.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_RdEdg.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_RdMgtBdry.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_RdSgmtA.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_RvrMgtBdry.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_SBAPt.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_SBArea.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_SBBdry.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_WA.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_WL.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_WStrA.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/jpfgdgml_WStrL.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/LICENSE.TXT
+Installing file cygfile:///apps/gdal-dev/share/gdal/netcdf_config.xsd
+Installing file cygfile:///apps/gdal-dev/share/gdal/nitf_spec.xml
+Installing file cygfile:///apps/gdal-dev/share/gdal/nitf_spec.xsd
+Installing file cygfile:///apps/gdal-dev/share/gdal/ogrvrt.xsd
+Installing file cygfile:///apps/gdal-dev/share/gdal/osmconf.ini
+Installing file cygfile:///apps/gdal-dev/share/gdal/ozi_datum.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/ozi_ellips.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/pci_datum.txt
+Installing file cygfile:///apps/gdal-dev/share/gdal/pci_ellips.txt
+Installing file cygfile:///apps/gdal-dev/share/gdal/pdfcomposition.xsd
+Installing file cygfile:///apps/gdal-dev/share/gdal/pds4_template.xml
+Installing file cygfile:///apps/gdal-dev/share/gdal/plscenesconf.json
+Installing file cygfile:///apps/gdal-dev/share/gdal/ruian_vf_ob_v1.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/ruian_vf_st_uvoh_v1.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/ruian_vf_st_v1.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/ruian_vf_v1.gfs
+Installing file cygfile:///apps/gdal-dev/share/gdal/s57agencies.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/s57attributes.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/s57expectedinput.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/s57objectclasses.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/seed_2d.dgn
+Installing file cygfile:///apps/gdal-dev/share/gdal/seed_3d.dgn
+Installing file cygfile:///apps/gdal-dev/share/gdal/stateplane.csv
+Installing file cygfile:///apps/gdal-dev/share/gdal/tms_LINZAntarticaMapTileGrid.json
+Installing file cygfile:///apps/gdal-dev/share/gdal/tms_NZTM2000.json
+Installing file cygfile:///apps/gdal-dev/share/gdal/trailer.dxf
+Installing file cygfile:///apps/gdal-dev/share/gdal/vdv452.xml
+Installing file cygfile:///apps/gdal-dev/share/gdal/vdv452.xsd
+Installing file cygfile:///apps/gdal-dev/share/gdal/vicar.json
+2020/06/28 14:07:39 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/geos/geos-3.8.1-1.tar.bz2
+Installing file cygfile:///lib/geos_c.lib
+Installing file cygfile:///bin/geos.dll
+Installing file cygfile:///bin/geos_c.dll
+Installing file cygfile:///include/geos/export.h
+Installing file cygfile:///include/geos_c.h
+2020/06/28 14:07:39 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf4/hdf4-4.2.14-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///cmake/
+Installing file cygfile:///cmake/hdf4/
+Installing file cygfile:///cmake/hdf4/hdf4-config-version.cmake
+Installing file cygfile:///cmake/hdf4/hdf4-config.cmake
+Installing file cygfile:///cmake/hdf4/hdf4-targets-release.cmake
+Installing file cygfile:///cmake/hdf4/hdf4-targets.cmake
+Installing file cygfile:///include/
+Installing file cygfile:///include/alloc.h
+Installing file cygfile:///include/atom.h
+Installing file cygfile:///include/bitvect.h
+Installing file cygfile:///include/cdeflate.h
+Installing file cygfile:///include/cnbit.h
+Installing file cygfile:///include/cnone.h
+Installing file cygfile:///include/crle.h
+Installing file cygfile:///include/cskphuff.h
+Installing file cygfile:///include/cszip.h
+Installing file cygfile:///include/df.h
+Installing file cygfile:///include/dfan.h
+Installing file cygfile:///include/dfgr.h
+Installing file cygfile:///include/dfi.h
+Installing file cygfile:///include/dfrig.h
+Installing file cygfile:///include/dfsd.h
+Installing file cygfile:///include/dfstubs.h
+Installing file cygfile:///include/dfufp2i.h
+Installing file cygfile:///include/dynarray.h
+Installing file cygfile:///include/error.h
+Installing file cygfile:///include/glist.h
+Installing file cygfile:///include/H4api_adpt.h
+Installing file cygfile:///include/h4config.h
+Installing file cygfile:///include/hbitio.h
+Installing file cygfile:///include/hchunks.h
+Installing file cygfile:///include/hcomp.h
+Installing file cygfile:///include/hcompi.h
+Installing file cygfile:///include/hconv.h
+Installing file cygfile:///include/hdatainfo.h
+Installing file cygfile:///include/hdf.h
+Installing file cygfile:///include/hdf2netcdf.h
+Installing file cygfile:///include/hdfi.h
+Installing file cygfile:///include/herr.h
+Installing file cygfile:///include/hfile.h
+Installing file cygfile:///include/hkit.h
+Installing file cygfile:///include/hlimits.h
+Installing file cygfile:///include/hntdefs.h
+Installing file cygfile:///include/hproto.h
+Installing file cygfile:///include/hqueue.h
+Installing file cygfile:///include/htags.h
+Installing file cygfile:///include/linklist.h
+Installing file cygfile:///include/local_nc.h
+Installing file cygfile:///include/mcache.h
+Installing file cygfile:///include/mfan.h
+Installing file cygfile:///include/mfdatainfo.h
+Installing file cygfile:///include/mfgr.h
+Installing file cygfile:///include/mfhdf.h
+Installing file cygfile:///include/mfhdfi.h
+Installing file cygfile:///include/mstdio.h
+Installing file cygfile:///include/netcdf.h
+Installing file cygfile:///include/tbbt.h
+Installing file cygfile:///include/vattr.h
+Installing file cygfile:///include/vg.h
+Installing file cygfile:///include/vgint.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/libhdf.lib
+Installing file cygfile:///lib/libhdf4.settings
+Installing file cygfile:///lib/libmfhdf.lib
+Installing file cygfile:///lib/libxdr.lib
+2020/06/28 14:07:39 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/hdf5/hdf5-1.10.4-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/gif2h5.exe
+Installing file cygfile:///bin/h52gif.exe
+Installing file cygfile:///bin/h5clear.exe
+Installing file cygfile:///bin/h5copy-shared.exe
+Installing file cygfile:///bin/h5copy.exe
+Installing file cygfile:///bin/h5debug.exe
+Installing file cygfile:///bin/h5diff-shared.exe
+Installing file cygfile:///bin/h5diff.exe
+Installing file cygfile:///bin/h5dump-shared.exe
+Installing file cygfile:///bin/h5dump.exe
+Installing file cygfile:///bin/h5format_convert.exe
+Installing file cygfile:///bin/h5import.exe
+Installing file cygfile:///bin/h5jam.exe
+Installing file cygfile:///bin/h5ls-shared.exe
+Installing file cygfile:///bin/h5ls.exe
+Installing file cygfile:///bin/h5mkgrp.exe
+Installing file cygfile:///bin/h5repack-shared.exe
+Installing file cygfile:///bin/h5repack.exe
+Installing file cygfile:///bin/h5repart.exe
+Installing file cygfile:///bin/h5stat-shared.exe
+Installing file cygfile:///bin/h5stat.exe
+Installing file cygfile:///bin/h5unjam.exe
+Installing file cygfile:///bin/h5watch.exe
+Installing file cygfile:///bin/hdf5.dll
+Installing file cygfile:///bin/hdf5_cpp.dll
+Installing file cygfile:///bin/hdf5_hl.dll
+Installing file cygfile:///bin/hdf5_hl_cpp.dll
+Installing file cygfile:///bin/hdf5_tools.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/H5AbstractDs.h
+Installing file cygfile:///include/H5ACpkg.h
+Installing file cygfile:///include/H5ACpublic.h
+Installing file cygfile:///include/H5Alltypes.h
+Installing file cygfile:///include/H5api_adpt.h
+Installing file cygfile:///include/H5Apkg.h
+Installing file cygfile:///include/H5Apublic.h
+Installing file cygfile:///include/H5ArrayType.h
+Installing file cygfile:///include/H5AtomType.h
+Installing file cygfile:///include/H5Attribute.h
+Installing file cygfile:///include/H5B2pkg.h
+Installing file cygfile:///include/H5B2public.h
+Installing file cygfile:///include/H5Bpkg.h
+Installing file cygfile:///include/H5Bpublic.h
+Installing file cygfile:///include/H5Classes.h
+Installing file cygfile:///include/H5CommonFG.h
+Installing file cygfile:///include/H5CompType.h
+Installing file cygfile:///include/H5Cpkg.h
+Installing file cygfile:///include/H5Cpp.h
+Installing file cygfile:///include/H5CppDoc.h
+Installing file cygfile:///include/H5Cpublic.h
+Installing file cygfile:///include/H5DaccProp.h
+Installing file cygfile:///include/H5DataSet.h
+Installing file cygfile:///include/H5DataSpace.h
+Installing file cygfile:///include/H5DataType.h
+Installing file cygfile:///include/H5DcreatProp.h
+Installing file cygfile:///include/h5diff.h
+Installing file cygfile:///include/H5DOpublic.h
+Installing file cygfile:///include/H5Dpkg.h
+Installing file cygfile:///include/H5Dpublic.h
+Installing file cygfile:///include/H5DSpublic.h
+Installing file cygfile:///include/H5DxferProp.h
+Installing file cygfile:///include/H5EApkg.h
+Installing file cygfile:///include/H5Edefin.h
+Installing file cygfile:///include/H5Einit.h
+Installing file cygfile:///include/H5EnumType.h
+Installing file cygfile:///include/H5Epkg.h
+Installing file cygfile:///include/H5Epubgen.h
+Installing file cygfile:///include/H5Epublic.h
+Installing file cygfile:///include/H5Eterm.h
+Installing file cygfile:///include/H5Exception.h
+Installing file cygfile:///include/H5FaccProp.h
+Installing file cygfile:///include/H5FApkg.h
+Installing file cygfile:///include/H5FcreatProp.h
+Installing file cygfile:///include/H5FDcore.h
+Installing file cygfile:///include/H5FDdirect.h
+Installing file cygfile:///include/H5FDfamily.h
+Installing file cygfile:///include/H5FDlog.h
+Installing file cygfile:///include/H5FDmpi.h
+Installing file cygfile:///include/H5FDmpio.h
+Installing file cygfile:///include/H5FDmulti.h
+Installing file cygfile:///include/H5FDpkg.h
+Installing file cygfile:///include/H5FDpublic.h
+Installing file cygfile:///include/H5FDsec2.h
+Installing file cygfile:///include/H5FDstdio.h
+Installing file cygfile:///include/H5FDwindows.h
+Installing file cygfile:///include/H5File.h
+Installing file cygfile:///include/H5FloatType.h
+Installing file cygfile:///include/H5Fpkg.h
+Installing file cygfile:///include/H5Fpublic.h
+Installing file cygfile:///include/H5FSpkg.h
+Installing file cygfile:///include/H5FSpublic.h
+Installing file cygfile:///include/H5Gpkg.h
+Installing file cygfile:///include/H5Gpublic.h
+Installing file cygfile:///include/H5Group.h
+Installing file cygfile:///include/H5HFpkg.h
+Installing file cygfile:///include/H5HFpublic.h
+Installing file cygfile:///include/H5HGpkg.h
+Installing file cygfile:///include/H5HGpublic.h
+Installing file cygfile:///include/H5HLpkg.h
+Installing file cygfile:///include/H5HLpublic.h
+Installing file cygfile:///include/H5IdComponent.h
+Installing file cygfile:///include/H5IMpublic.h
+Installing file cygfile:///include/H5Include.h
+Installing file cygfile:///include/H5IntType.h
+Installing file cygfile:///include/H5Ipkg.h
+Installing file cygfile:///include/H5Ipublic.h
+Installing file cygfile:///include/H5LaccProp.h
+Installing file cygfile:///include/H5LcreatProp.h
+Installing file cygfile:///include/H5LDpublic.h
+Installing file cygfile:///include/H5Library.h
+Installing file cygfile:///include/H5Location.h
+Installing file cygfile:///include/H5Lpkg.h
+Installing file cygfile:///include/H5Lpublic.h
+Installing file cygfile:///include/H5LTparse.h
+Installing file cygfile:///include/H5LTpublic.h
+Installing file cygfile:///include/H5MMpublic.h
+Installing file cygfile:///include/H5MPpkg.h
+Installing file cygfile:///include/H5Object.h
+Installing file cygfile:///include/H5OcreatProp.h
+Installing file cygfile:///include/H5Opkg.h
+Installing file cygfile:///include/H5Opublic.h
+Installing file cygfile:///include/H5Oshared.h
+Installing file cygfile:///include/H5overflow.h
+Installing file cygfile:///include/H5PacketTable.h
+Installing file cygfile:///include/H5PBpkg.h
+Installing file cygfile:///include/H5PLextern.h
+Installing file cygfile:///include/H5PLpkg.h
+Installing file cygfile:///include/H5PLpublic.h
+Installing file cygfile:///include/H5Ppkg.h
+Installing file cygfile:///include/H5Ppublic.h
+Installing file cygfile:///include/H5PredType.h
+Installing file cygfile:///include/H5PropList.h
+Installing file cygfile:///include/H5PTpublic.h
+Installing file cygfile:///include/H5pubconf.h
+Installing file cygfile:///include/H5public.h
+Installing file cygfile:///include/H5Rpkg.h
+Installing file cygfile:///include/H5Rpublic.h
+Installing file cygfile:///include/H5SMpkg.h
+Installing file cygfile:///include/H5Spkg.h
+Installing file cygfile:///include/H5Spublic.h
+Installing file cygfile:///include/H5StrType.h
+Installing file cygfile:///include/H5TBpublic.h
+Installing file cygfile:///include/h5tools.h
+Installing file cygfile:///include/h5tools_dump.h
+Installing file cygfile:///include/h5tools_ref.h
+Installing file cygfile:///include/h5tools_str.h
+Installing file cygfile:///include/h5tools_utils.h
+Installing file cygfile:///include/H5Tpkg.h
+Installing file cygfile:///include/H5Tpublic.h
+Installing file cygfile:///include/h5trav.h
+Installing file cygfile:///include/H5VarLenType.h
+Installing file cygfile:///include/H5version.h
+Installing file cygfile:///include/H5Zpkg.h
+Installing file cygfile:///include/H5Zpublic.h
+Installing file cygfile:///include/hdf5.h
+Installing file cygfile:///include/hdf5_hl.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/hdf5.lib
+Installing file cygfile:///lib/hdf5_cpp.lib
+Installing file cygfile:///lib/hdf5_hl.lib
+Installing file cygfile:///lib/hdf5_hl_cpp.lib
+Installing file cygfile:///lib/hdf5_tools.lib
+Installing file cygfile:///lib/libhdf5.lib
+Installing file cygfile:///lib/libhdf5.settings
+Installing file cygfile:///lib/libhdf5_cpp.lib
+Installing file cygfile:///lib/libhdf5_hl.lib
+Installing file cygfile:///lib/libhdf5_hl_cpp.lib
+Installing file cygfile:///lib/libhdf5_tools.lib
+Installing file cygfile:///lib/pkgconfig/
+Installing file cygfile:///lib/pkgconfig/hdf5-1.10.4.pc
+Installing file cygfile:///lib/pkgconfig/hdf5_cpp-1.10.4.pc
+Installing file cygfile:///lib/pkgconfig/hdf5_hl-1.10.4.pc
+Installing file cygfile:///lib/pkgconfig/hdf5_hl_cpp-1.10.4.pc
+Installing file cygfile:///share/cmake/
+Installing file cygfile:///share/cmake/hdf5/
+Installing file cygfile:///share/cmake/hdf5/hdf5-config-version.cmake
+Installing file cygfile:///share/cmake/hdf5/hdf5-config.cmake
+Installing file cygfile:///share/cmake/hdf5/hdf5-targets-release.cmake
+Installing file cygfile:///share/cmake/hdf5/hdf5-targets.cmake
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv/iconv-1.14-1.tar.bz2
+Installing file cygfile:///bin/iconv.dll
+Installing file cygfile:///include/iconv.h
+Installing file cygfile:///lib/iconv.lib
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/iconv-vc14/iconv-vc14-1.15-1.tar.bz2
+Installing file cygfile:///bin/charset-1.dll
+Installing file cygfile:///bin/iconv-2.dll
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg/libjpeg-6b-4.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/jpeg.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/cderror.h
+Installing file cygfile:///include/cdjpeg.h
+Installing file cygfile:///include/jchuff.h
+Installing file cygfile:///include/jconfig.h
+Installing file cygfile:///include/jdct.h
+Installing file cygfile:///include/jdhuff.h
+Installing file cygfile:///include/jerror.h
+Installing file cygfile:///include/jinclude.h
+Installing file cygfile:///include/jmemsys.h
+Installing file cygfile:///include/jmorecfg.h
+Installing file cygfile:///include/jpegint.h
+Installing file cygfile:///include/jpeglib.h
+Installing file cygfile:///include/jversion.h
+Installing file cygfile:///include/transupp.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/jpeg_i.lib
+Installing file cygfile:///etc/ini/libjpeg.bat
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libjpeg/libjpeg12/libjpeg12-6b-4.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/jpeg12.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/libjpeg12/
+Installing file cygfile:///include/libjpeg12/cderror.h
+Installing file cygfile:///include/libjpeg12/cdjpeg.h
+Installing file cygfile:///include/libjpeg12/jchuff.h
+Installing file cygfile:///include/libjpeg12/jconfig.h
+Installing file cygfile:///include/libjpeg12/jdct.h
+Installing file cygfile:///include/libjpeg12/jdhuff.h
+Installing file cygfile:///include/libjpeg12/jerror.h
+Installing file cygfile:///include/libjpeg12/jinclude.h
+Installing file cygfile:///include/libjpeg12/jmemsys.h
+Installing file cygfile:///include/libjpeg12/jmorecfg.h
+Installing file cygfile:///include/libjpeg12/jpegint.h
+Installing file cygfile:///include/libjpeg12/jpeglib.h
+Installing file cygfile:///include/libjpeg12/jversion.h
+Installing file cygfile:///include/libjpeg12/transupp.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/jpeg12_i.lib
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/liblwgeom/liblwgeom-3.0.0-2.tar.bz2
+Installing file cygfile:///bin/lwgeom.dll
+Installing file cygfile:///lib/lwgeom.lib
+Installing file cygfile:///lib/lwgeom_i.lib
+Installing file cygfile:///include/liblwgeom.h
+Installing file cygfile:///include/lwinline.h
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libmysql/libmysql-6.1.9-1.tar.bz2
+Installing file cygfile:///bin/libmysql.dll
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng/libpng-1.6.3-1.tar.bz2
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/libpng/
+Installing file cygfile:///lib/libpng/libpng16-release.cmake
+Installing file cygfile:///lib/libpng/libpng16.cmake
+Installing file cygfile:///lib/libpng16.lib
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/libpng16.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/libpng16/
+Installing file cygfile:///include/libpng16/png.h
+Installing file cygfile:///include/libpng16/pngconf.h
+Installing file cygfile:///include/libpng16/pnglibconf.h
+Installing file cygfile:///include/png.h
+Installing file cygfile:///include/pngconf.h
+Installing file cygfile:///include/pnglibconf.h
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpng-vc14/libpng-vc14-1.6.29-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/libpng16.dll
+2020/06/28 14:07:42 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libpq/libpq-11.5-1.tar.bz2
+Installing file cygfile:///bin/libpq.dll
+Installing file cygfile:///lib/libpq.lib
+Installing file cygfile:///bin/psql.exe
+Installing file cygfile:///include/libpq-fe.h
+Installing file cygfile:///include/libpq-events.h
+Installing file cygfile:///include/internal/libpq-int.h
+Installing file cygfile:///include/internal/pqexpbuffer.h
+Installing file cygfile:///include/postgres_ext.h
+Installing file cygfile:///include/pg_config.h
+Installing file cygfile:///include/pg_config_ext.h
+Installing file cygfile:///include/pg_config_os.h
+Installing file cygfile:///include/dynloader.h
+Installing file cygfile:///include/pg_config_manual.h
+2020/06/28 14:07:43 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libtiff/libtiff-4.0.8-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/fax2ps.exe
+Installing file cygfile:///bin/fax2tiff.exe
+Installing file cygfile:///bin/libtiff.dll
+Installing file cygfile:///bin/pal2rgb.exe
+Installing file cygfile:///bin/ppm2tiff.exe
+Installing file cygfile:///bin/raw2tiff.exe
+Installing file cygfile:///bin/tiff.dll
+Installing file cygfile:///bin/tiff2bw.exe
+Installing file cygfile:///bin/tiff2pdf.exe
+Installing file cygfile:///bin/tiff2ps.exe
+Installing file cygfile:///bin/tiff2rgba.exe
+Installing file cygfile:///bin/tiffcmp.exe
+Installing file cygfile:///bin/tiffcp.exe
+Installing file cygfile:///bin/tiffcrop.exe
+Installing file cygfile:///bin/tiffdither.exe
+Installing file cygfile:///bin/tiffdump.exe
+Installing file cygfile:///bin/tiffinfo.exe
+Installing file cygfile:///bin/tiffmedian.exe
+Installing file cygfile:///bin/tiffset.exe
+Installing file cygfile:///bin/tiffsplit.exe
+Installing file cygfile:///include/
+Installing file cygfile:///include/tiff.h
+Installing file cygfile:///include/tiffconf.h
+Installing file cygfile:///include/tiffio.h
+Installing file cygfile:///include/tiffvers.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/libtiff_i.lib
+Installing file cygfile:///lib/pkgconfig/
+Installing file cygfile:///lib/pkgconfig/libtiff-4.pc
+Installing file cygfile:///lib/tiff.lib
+2020/06/28 14:07:43 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/libxml2/libxml2-2.9.1-1.tar.bz2
+Installing file cygfile:///bin/libxml2.dll
+Installing file cygfile:///bin/xmlcatalog.exe
+Installing file cygfile:///bin/xmllint.exe
+Installing file cygfile:///include/libxml2/libxml/
+Installing file cygfile:///include/libxml2/libxml/c14n.h
+Installing file cygfile:///include/libxml2/libxml/catalog.h
+Installing file cygfile:///include/libxml2/libxml/chvalid.h
+Installing file cygfile:///include/libxml2/libxml/debugXML.h
+Installing file cygfile:///include/libxml2/libxml/dict.h
+Installing file cygfile:///include/libxml2/libxml/DOCBparser.h
+Installing file cygfile:///include/libxml2/libxml/encoding.h
+Installing file cygfile:///include/libxml2/libxml/entities.h
+Installing file cygfile:///include/libxml2/libxml/globals.h
+Installing file cygfile:///include/libxml2/libxml/hash.h
+Installing file cygfile:///include/libxml2/libxml/HTMLparser.h
+Installing file cygfile:///include/libxml2/libxml/HTMLtree.h
+Installing file cygfile:///include/libxml2/libxml/list.h
+Installing file cygfile:///include/libxml2/libxml/nanoftp.h
+Installing file cygfile:///include/libxml2/libxml/nanohttp.h
+Installing file cygfile:///include/libxml2/libxml/parser.h
+Installing file cygfile:///include/libxml2/libxml/parserInternals.h
+Installing file cygfile:///include/libxml2/libxml/pattern.h
+Installing file cygfile:///include/libxml2/libxml/relaxng.h
+Installing file cygfile:///include/libxml2/libxml/SAX.h
+Installing file cygfile:///include/libxml2/libxml/SAX2.h
+Installing file cygfile:///include/libxml2/libxml/schemasInternals.h
+Installing file cygfile:///include/libxml2/libxml/schematron.h
+Installing file cygfile:///include/libxml2/libxml/threads.h
+Installing file cygfile:///include/libxml2/libxml/tree.h
+Installing file cygfile:///include/libxml2/libxml/uri.h
+Installing file cygfile:///include/libxml2/libxml/valid.h
+Installing file cygfile:///include/libxml2/libxml/xinclude.h
+Installing file cygfile:///include/libxml2/libxml/xlink.h
+Installing file cygfile:///include/libxml2/libxml/xmlautomata.h
+Installing file cygfile:///include/libxml2/libxml/xmlerror.h
+Installing file cygfile:///include/libxml2/libxml/xmlexports.h
+Installing file cygfile:///include/libxml2/libxml/xmlIO.h
+Installing file cygfile:///include/libxml2/libxml/xmlmemory.h
+Installing file cygfile:///include/libxml2/libxml/xmlmodule.h
+Installing file cygfile:///include/libxml2/libxml/xmlreader.h
+Installing file cygfile:///include/libxml2/libxml/xmlregexp.h
+Installing file cygfile:///include/libxml2/libxml/xmlsave.h
+Installing file cygfile:///include/libxml2/libxml/xmlschemas.h
+Installing file cygfile:///include/libxml2/libxml/xmlschemastypes.h
+Installing file cygfile:///include/libxml2/libxml/xmlstring.h
+Installing file cygfile:///include/libxml2/libxml/xmlunicode.h
+Installing file cygfile:///include/libxml2/libxml/xmlversion.h
+Installing file cygfile:///include/libxml2/libxml/xmlwriter.h
+Installing file cygfile:///include/libxml2/libxml/xpath.h
+Installing file cygfile:///include/libxml2/libxml/xpathInternals.h
+Installing file cygfile:///include/libxml2/libxml/xpointer.h
+Installing file cygfile:///lib/libxml2.lib
+2020/06/28 14:07:43 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/_obsolete/msvc2015/msvc2015-1.0.0-1.tar.bz2
+Installing file cygfile:///./
+2020/06/28 14:07:43 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt-1.0.3-1.tar.bz2
+Installing file cygfile:///etc/
+Installing file cygfile:///etc/ini/
+Installing file cygfile:///etc/ini/msvcrt.bat
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/dllupdate.exe
+Installing file cygfile:///bin/msvcp100.dll
+Installing file cygfile:///bin/msvcr100.dll
+Installing file cygfile:///bin/nircmd.exe
+Installing file cygfile:///bin/nircmdc.exe
+Installing file cygfile:///bin/o4w_env.bat
+Installing file cygfile:///bin/textreplace.exe
+Installing file cygfile:///bin/xxmklink.exe
+Installing file cygfile:///apps/
+Installing file cygfile:///apps/msvcrt/
+Installing file cygfile:///apps/msvcrt/NirCmd.chm
+2020/06/28 14:07:43 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2008/msvcrt2008-1.0.0-1.tar.bz2
+Installing file cygfile:///bin/vcredist-2008-sp1-x64.exe
+Installing file cygfile:///etc/postinstall/msvcrt-2008.bat
+2020/06/28 14:07:43 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2010/msvcrt2010-1.0.0-2.tar.bz2
+Installing file cygfile:///bin/vcredist-2010-x64.exe
+Installing file cygfile:///etc/postinstall/msvcrt-2010.bat
+2020/06/28 14:07:44 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/msvcrt/msvcrt2015/msvcrt2015-1.0-2.tar.bz2
+Installing file cygfile:///etc/postinstall/msvcrt2015.bat
+Installing file cygfile:///bin/vcredist_2015_x64.exe
+2020/06/28 14:07:45 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/netcdf/netcdf-4.7.3-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/nc-config.tmpl
+Installing file cygfile:///bin/nccopy.exe
+Installing file cygfile:///bin/ncdump.exe
+Installing file cygfile:///bin/ncgen.exe
+Installing file cygfile:///bin/ncgen3.exe
+Installing file cygfile:///bin/netcdf.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/netcdf.h
+Installing file cygfile:///include/netcdf_aux.h
+Installing file cygfile:///include/netcdf_dispatch.h
+Installing file cygfile:///include/netcdf_filter.h
+Installing file cygfile:///include/netcdf_mem.h
+Installing file cygfile:///include/netcdf_meta.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/cmake/
+Installing file cygfile:///lib/cmake/netCDF/
+Installing file cygfile:///lib/cmake/netCDF/netCDFConfig.cmake
+Installing file cygfile:///lib/cmake/netCDF/netCDFConfigVersion.cmake
+Installing file cygfile:///lib/cmake/netCDF/netCDFTargets-release.cmake
+Installing file cygfile:///lib/cmake/netCDF/netCDFTargets.cmake
+Installing file cygfile:///lib/libnetcdf.settings
+Installing file cygfile:///lib/netcdf.lib
+Installing file cygfile:///lib/pkgconfig/
+Installing file cygfile:///lib/pkgconfig/netcdf.pc
+Installing file cygfile:///etc/
+Installing file cygfile:///etc/postinstall/
+Installing file cygfile:///etc/postinstall/netcdf.bat
+Installing file cygfile:///etc/preremove/
+Installing file cygfile:///etc/preremove/netcdf.bat
+2020/06/28 14:07:45 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/ogdi/ogdi-4.1.0-1.tar.bz2
+Installing file cygfile:///bin/adrg.dll
+Installing file cygfile:///bin/ogdi.dll
+Installing file cygfile:///bin/remote.dll
+Installing file cygfile:///bin/rpf.dll
+Installing file cygfile:///bin/skeleton.dll
+Installing file cygfile:///bin/vrf.dll
+2020/06/28 14:07:45 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openjpeg/openjpeg-2.3.0-1.tar.bz2
+Installing file cygfile:///bin/openjp2.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/openjpeg-2.3/
+Installing file cygfile:///include/openjpeg-2.3/openjpeg.h
+Installing file cygfile:///include/openjpeg-2.3/opj_config.h
+Installing file cygfile:///include/openjpeg-2.3/opj_stdint.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/openjp2.lib
+Installing file cygfile:///lib/openjpeg-2.3/
+Installing file cygfile:///lib/openjpeg-2.3/OpenJPEGConfig.cmake
+Installing file cygfile:///lib/openjpeg-2.3/OpenJPEGTargets-release.cmake
+Installing file cygfile:///lib/openjpeg-2.3/OpenJPEGTargets.cmake
+2020/06/28 14:07:45 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl-1.1.1d-2.tar.bz2
+Installing file cygfile:///bin/libcrypto-1_1-x64.dll
+Installing file cygfile:///bin/libssl-1_1-x64.dll
+Installing file cygfile:///etc/postinstall/openssl.bat
+2020/06/28 14:07:45 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/openssl/openssl10/openssl10-1.0.2j-1.tar.bz2
+Installing file cygfile:///bin/libeay32.dll
+Installing file cygfile:///bin/ssleay32.dll
+Installing file cygfile:///etc/postinstall/openssl10.bat
+2020/06/28 14:07:45 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-6.3.2-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/cct.exe
+Installing file cygfile:///bin/cs2cs.exe
+Installing file cygfile:///bin/geod.exe
+Installing file cygfile:///bin/gie.exe
+Installing file cygfile:///bin/proj.exe
+Installing file cygfile:///bin/projinfo.exe
+Installing file cygfile:///bin/proj_6_3.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/geodesic.h
+Installing file cygfile:///include/proj/
+Installing file cygfile:///include/proj/common.hpp
+Installing file cygfile:///include/proj/coordinateoperation.hpp
+Installing file cygfile:///include/proj/coordinatesystem.hpp
+Installing file cygfile:///include/proj/crs.hpp
+Installing file cygfile:///include/proj/datum.hpp
+Installing file cygfile:///include/proj/io.hpp
+Installing file cygfile:///include/proj/metadata.hpp
+Installing file cygfile:///include/proj/nn.hpp
+Installing file cygfile:///include/proj/util.hpp
+Installing file cygfile:///include/proj.h
+Installing file cygfile:///include/proj_api.h
+Installing file cygfile:///include/proj_constants.h
+Installing file cygfile:///include/proj_experimental.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/proj.lib
+Installing file cygfile:///lib/proj_i.lib
+Installing file cygfile:///etc/
+Installing file cygfile:///etc/ini/
+Installing file cygfile:///etc/ini/proj.bat
+Installing file cygfile:///share/proj/
+Installing file cygfile:///share/proj/CH
+Installing file cygfile:///share/proj/GL27
+Installing file cygfile:///share/proj/ITRF2000
+Installing file cygfile:///share/proj/ITRF2008
+Installing file cygfile:///share/proj/ITRF2014
+Installing file cygfile:///share/proj/nad.lst
+Installing file cygfile:///share/proj/nad27
+Installing file cygfile:///share/proj/nad83
+Installing file cygfile:///share/proj/null
+Installing file cygfile:///share/proj/other.extra
+Installing file cygfile:///share/proj/proj.db
+Installing file cygfile:///share/proj/world
+Installing file cygfile:///share/cmake/proj4/
+Installing file cygfile:///share/cmake/proj4/proj4-config-version.cmake
+Installing file cygfile:///share/cmake/proj4/proj4-config.cmake
+Installing file cygfile:///share/cmake/proj4/proj4-namespace-targets-relwithdebinfo.cmake
+Installing file cygfile:///share/cmake/proj4/proj4-namespace-targets.cmake
+Installing file cygfile:///share/cmake/proj4/proj4-targets-relwithdebinfo.cmake
+Installing file cygfile:///share/cmake/proj4/proj4-targets.cmake
+2020/06/28 14:07:46 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-datumgrid/proj-datumgrid-1.8-1.tar.bz2
+Installing file cygfile:///./
+Installing file cygfile:///share/proj/alaska
+Installing file cygfile:///share/proj/BETA2007.gsb
+Installing file cygfile:///share/proj/conus
+Installing file cygfile:///share/proj/egm96_15.gtx
+Installing file cygfile:///share/proj/FL
+Installing file cygfile:///share/proj/hawaii
+Installing file cygfile:///share/proj/MD
+Installing file cygfile:///share/proj/ntf_r93.gsb
+Installing file cygfile:///share/proj/ntv1_can.dat
+Installing file cygfile:///share/proj/null
+Installing file cygfile:///share/proj/nzgd2kgrid0005.gsb
+Installing file cygfile:///share/proj/prvi
+Installing file cygfile:///share/proj/README.DATUMGRID
+Installing file cygfile:///share/proj/stgeorge
+Installing file cygfile:///share/proj/stlrnc
+Installing file cygfile:///share/proj/stpaul
+Installing file cygfile:///share/proj/TN
+Installing file cygfile:///share/proj/WI
+Installing file cygfile:///share/proj/WO
+2020/06/28 14:07:46 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev/proj-dev-7.1.0-75.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/proj-dev-env.bat
+Installing file cygfile:///apps/proj-dev/bin/
+Installing file cygfile:///apps/proj-dev/bin/cct.exe
+Installing file cygfile:///apps/proj-dev/bin/cs2cs.exe
+Installing file cygfile:///apps/proj-dev/bin/geod.exe
+Installing file cygfile:///apps/proj-dev/bin/gie.exe
+Installing file cygfile:///apps/proj-dev/bin/proj.exe
+Installing file cygfile:///apps/proj-dev/bin/projinfo.exe
+Installing file cygfile:///apps/proj-dev/bin/projsync.exe
+Installing file cygfile:///apps/proj-dev/bin/proj_7_1.dll
+Installing file cygfile:///apps/proj-dev/include/
+Installing file cygfile:///apps/proj-dev/include/geodesic.h
+Installing file cygfile:///apps/proj-dev/include/proj/
+Installing file cygfile:///apps/proj-dev/include/proj/common.hpp
+Installing file cygfile:///apps/proj-dev/include/proj/coordinateoperation.hpp
+Installing file cygfile:///apps/proj-dev/include/proj/coordinatesystem.hpp
+Installing file cygfile:///apps/proj-dev/include/proj/crs.hpp
+Installing file cygfile:///apps/proj-dev/include/proj/datum.hpp
+Installing file cygfile:///apps/proj-dev/include/proj/io.hpp
+Installing file cygfile:///apps/proj-dev/include/proj/metadata.hpp
+Installing file cygfile:///apps/proj-dev/include/proj/nn.hpp
+Installing file cygfile:///apps/proj-dev/include/proj/util.hpp
+Installing file cygfile:///apps/proj-dev/include/proj.h
+Installing file cygfile:///apps/proj-dev/include/proj_api.h
+Installing file cygfile:///apps/proj-dev/include/proj_constants.h
+Installing file cygfile:///apps/proj-dev/include/proj_experimental.h
+Installing file cygfile:///apps/proj-dev/lib/
+Installing file cygfile:///apps/proj-dev/lib/proj.lib
+Installing file cygfile:///apps/proj-dev/share/
+Installing file cygfile:///apps/proj-dev/share/cmake/
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj/
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj/proj-config-version.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj/proj-config.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj/proj-targets-relwithdebinfo.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj/proj-targets.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj/proj4-targets-relwithdebinfo.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj/proj4-targets.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj4/
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj4/proj-targets-relwithdebinfo.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj4/proj-targets.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj4/proj4-config-version.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj4/proj4-config.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj4/proj4-targets-relwithdebinfo.cmake
+Installing file cygfile:///apps/proj-dev/share/cmake/proj4/proj4/proj4-targets.cmake
+Installing file cygfile:///apps/proj-dev/share/man/
+Installing file cygfile:///apps/proj-dev/share/man/man1/
+Installing file cygfile:///apps/proj-dev/share/man/man1/cct.1
+Installing file cygfile:///apps/proj-dev/share/man/man1/cs2cs.1
+Installing file cygfile:///apps/proj-dev/share/man/man1/geod.1
+Installing file cygfile:///apps/proj-dev/share/man/man1/gie.1
+Installing file cygfile:///apps/proj-dev/share/man/man1/proj.1
+Installing file cygfile:///apps/proj-dev/share/man/man1/projinfo.1
+Installing file cygfile:///apps/proj-dev/share/man/man1/projsync.1
+Installing file cygfile:///apps/proj-dev/share/proj/
+Installing file cygfile:///apps/proj-dev/share/proj/CH
+Installing file cygfile:///apps/proj-dev/share/proj/GL27
+Installing file cygfile:///apps/proj-dev/share/proj/ITRF2000
+Installing file cygfile:///apps/proj-dev/share/proj/ITRF2008
+Installing file cygfile:///apps/proj-dev/share/proj/ITRF2014
+Installing file cygfile:///apps/proj-dev/share/proj/nad.lst
+Installing file cygfile:///apps/proj-dev/share/proj/nad27
+Installing file cygfile:///apps/proj-dev/share/proj/nad83
+Installing file cygfile:///apps/proj-dev/share/proj/other.extra
+Installing file cygfile:///apps/proj-dev/share/proj/proj.db
+Installing file cygfile:///apps/proj-dev/share/proj/proj.ini
+Installing file cygfile:///apps/proj-dev/share/proj/world
+2020/06/28 14:07:47 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-dev-data/proj-dev-data-1.1-20.tar.bz2
+Installing file cygfile:///apps/proj-dev/share/proj/DK
+Installing file cygfile:///apps/proj-dev/share/proj/FO
+Installing file cygfile:///apps/proj-dev/share/proj/ISL
+Installing file cygfile:///apps/proj-dev/share/proj/NKG
+Installing file cygfile:///apps/proj-dev/share/proj/README.DATA
+Installing file cygfile:///apps/proj-dev/share/proj/at_bev_AT_GIS_GRID.tif
+Installing file cygfile:///apps/proj-dev/share/proj/at_bev_GEOID_BESSEL_Oesterreich.tif
+Installing file cygfile:///apps/proj-dev/share/proj/at_bev_GEOID_GRS80_Oesterreich.tif
+Installing file cygfile:///apps/proj-dev/share/proj/at_bev_GV_Hoehengrid_V1.tif
+Installing file cygfile:///apps/proj-dev/share/proj/at_bev_GV_Hoehengrid_plus_Geoid_V2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/at_bev_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/au_ga_AUSGeoid09_V1.01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_ga_AUSGeoid2020_20180201.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_ga_AUSGeoid98.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_ga_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/au_icsm_A66_National_13_09_01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_icsm_GDA94_GDA2020_conformal.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_icsm_GDA94_GDA2020_conformal_and_distortion.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_icsm_GDA94_GDA2020_conformal_christmas_island.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_icsm_GDA94_GDA2020_conformal_cocos_island.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_icsm_National_84_02_07_01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/au_icsm_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/be_ign_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/be_ign_bd72lb72_etrs89lb08.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_ABCSRSV4.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_BC_27_05.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_BC_93_05.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_CGG2013ai08.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_CGG2013an83.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_CGG2013i08.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_CGG2013n83.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_CQ77SCRS.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_CRD27_00.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_CRD93_00.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_GS7783.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_HT2_2010v70.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_MAY76V20.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_NA27SCRS.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_NA83SCRS.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_NAD83v6VG.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_NAD83v70VG.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_NB2783v2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_NB7783v2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_NS778302.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_NVI93_05.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_ON27CSv1.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_ON76CSv1.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_ON83CSv1.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_PE7783V2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_SK27-98.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_SK83-98.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_TO27CSv1.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_ntv1_can.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_nrc_ntv2_0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_que_mern_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/ca_que_mern_cq77na83.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ca_que_mern_na27na83.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ch_swisstopo_CHENyx06_ETRS.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ch_swisstopo_CHENyx06a.tif
+Installing file cygfile:///apps/proj-dev/share/proj/ch_swisstopo_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/copyright_and_licenses.csv
+Installing file cygfile:///apps/proj-dev/share/proj/de_adv_BETA2007.tif
+Installing file cygfile:///apps/proj-dev/share/proj/de_adv_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/de_geosn_NTv2_SN.tif
+Installing file cygfile:///apps/proj-dev/share/proj/de_geosn_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/de_lgl_bw_BWTA2017.tif
+Installing file cygfile:///apps/proj-dev/share/proj/de_lgl_bw_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/de_lgvl_saarland_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/de_lgvl_saarland_SeTa2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_DK_bornholm.pol
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_DK_bridges.pol
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_DK_general.pol
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_DK_jutland.pol
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_DK_zealand.pol
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_FO_fk89.pol
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_dnn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_dvr90.tif
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_fvr09.tif
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_gvr2000.tif
+Installing file cygfile:///apps/proj-dev/share/proj/dk_sdfe_gvr2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/es_cat_icgc_100800401.tif
+Installing file cygfile:///apps/proj-dev/share/proj/es_cat_icgc_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/es_ign_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/es_ign_SPED2ETV2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/es_ign_egm08-rednap.tif
+Installing file cygfile:///apps/proj-dev/share/proj/eur_nkg_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/eur_nkg_nkgrf03vel_realigned.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_CGVD2013RGSPM06.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RAC09.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RAF09.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RAF18.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RAGTBT2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RALD2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RALDW842016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RALS2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RAMART2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RAMG2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RAR07_bl.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_RASPM2018.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_gg10_sbv2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_gg10_smv2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggg00_lsv2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggg00_mgv2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggg00_sbv2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggg00_smv2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggg00v2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggguy15.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggker08v2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggm00v2.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggm04v1.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf02-Bora.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf02-Huahine.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf02-Maiao.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf02-Maupiti.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf02-Raiatea.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf02-Tahaa.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf02-Tupai.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf05-HivaOa.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf05-Nuku.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Fakarava.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Gambier.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Hao.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Mataiva.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Raivavae.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Reao.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Rurutu.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Tikehau.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf08-Tubuai.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf10-Moorea.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggpf10-Tahiti.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ggspm06v1.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_gr3df97a.tif
+Installing file cygfile:///apps/proj-dev/share/proj/fr_ign_ntf_r93.tif
+Installing file cygfile:///apps/proj-dev/share/proj/is_lmi_ISN2004_ISN2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/is_lmi_ISN93_ISN2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/is_lmi_ISN_vel_beta.tif
+Installing file cygfile:///apps/proj-dev/share/proj/is_lmi_Icegeoid_ISN2004.tif
+Installing file cygfile:///apps/proj-dev/share/proj/is_lmi_Icegeoid_ISN2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/is_lmi_Icegeoid_ISN93.tif
+Installing file cygfile:///apps/proj-dev/share/proj/is_lmi_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/nc_dittt_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/nc_dittt_Ranc08_Circe.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nc_dittt_gr3dnc01b.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nc_dittt_gr3dnc02b.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nc_dittt_gr3dnc03a.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nl_nsgi_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/nl_nsgi_naptrans2018.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nl_nsgi_nlgeo2018.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nl_nsgi_rdcorr2018.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nl_nsgi_rdtrans2018.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_auckht1946-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_blufht1955-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_dublht1960-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_duneht1958-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_gisbht1926-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_lyttht1937-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_motuht1953-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_napiht1962-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nelsht1955-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-20000101.json
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-20130801.json
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-20140201.json
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-20150101.json
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-20160701.json
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-20171201.json
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-20180701.json
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-c120100904-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-c220110222-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-c320110613-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-c420111223-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ch20160214-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-cs20130721-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-cs20130721-grid02.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ds20090715-grid011.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ds20090715-grid012.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ds20090715-grid013.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ds20090715-grid014.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-gs20071016-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid02.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid03.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid04.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid05.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid06.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid07.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid08.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid09.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid10.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid11.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ka20161114-grid12.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-lg20130816-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-lg20130816-grid02.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-mq20041223-grid011.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-mq20041223-grid012.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-mq20041223-grid013.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-mq20041223-grid014.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-mq20041223-grid015.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-mq20041223-grid016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ndm-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-ndm-grid02.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2000-si20030821-grid01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgd2kgrid0005.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgeoid2009.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_nzgeoid2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_ontpht1964-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_stisht1977-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_taraht1970-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/nz_linz_wellht1953-nzvd2016.tif
+Installing file cygfile:///apps/proj-dev/share/proj/pt_dgt_D73_ETRS89_geo.tif
+Installing file cygfile:///apps/proj-dev/share/proj/pt_dgt_DLx_ETRS89_geo.tif
+Installing file cygfile:///apps/proj-dev/share/proj/pt_dgt_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/se_lantmateriet_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/se_lantmateriet_SWEN17_RH2000.tif
+Installing file cygfile:///apps/proj-dev/share/proj/sk_gku_JTSK03_to_JTSK.tif
+Installing file cygfile:///apps/proj-dev/share/proj/sk_gku_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/sk_gku_Slovakia_ETRS89h_to_Baltic1957.tif
+Installing file cygfile:///apps/proj-dev/share/proj/sk_gku_Slovakia_ETRS89h_to_EVRF2007.tif
+Installing file cygfile:///apps/proj-dev/share/proj/uk_os_OSGM15_Belfast.tif
+Installing file cygfile:///apps/proj-dev/share/proj/uk_os_OSGM15_GB.tif
+Installing file cygfile:///apps/proj-dev/share/proj/uk_os_OSGM15_Malin.tif
+Installing file cygfile:///apps/proj-dev/share/proj/uk_os_OSTN15_NTv2_OSGBtoETRS.tif
+Installing file cygfile:///apps/proj-dev/share/proj/uk_os_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/us_nga_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/us_nga_egm08_25.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_nga_egm96_15.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_FL.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_MD.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_README.txt
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_TN.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_WI.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_WO.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_alaska.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_alhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_arhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_azhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_c1hpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_c2hpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_cnhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_cohpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_conus.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_cshpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_emhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_eshpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_ethpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_flhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999a01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999a02.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999a03.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999a04.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999h01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999p01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999u01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999u02.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999u03.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999u04.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999u05.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999u06.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999u07.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g1999u08.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2003a01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2003a02.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2003a03.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2003a04.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2003h01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2003p01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2009g01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2009h01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2009p01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2009s01.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2012ba0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2012bg0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2012bh0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2012bp0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2012bs0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2012bu0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2018p0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_g2018u0.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_gahpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_geoid03_conus.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_geoid06_ak.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_geoid09_ak.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_geoid09_conus.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_guhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_hawaii.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_hihpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_iahpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_ilhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_inhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_kshpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_kyhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_lahpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_mdhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_mehpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_mihpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_mnhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_mohpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_mshpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_nbhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_nchpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_ndhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_nehpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_njhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_nmhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_nvhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_nyhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_ohhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_okhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_pahpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_prvi.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_pvhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_schpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_sdhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_stgeorge.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_stlrnc.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_stpaul.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_tnhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_uthpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_vahpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_vertconc.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_vertcone.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_vertconw.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_wihpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_wmhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_wohpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_wshpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_wthpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_wvhpgn.tif
+Installing file cygfile:///apps/proj-dev/share/proj/us_noaa_wyhpgn.tif
+2020/06/28 14:08:23 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/proj/proj-hpgn/proj-hpgn-1.0-1.tar.bz2
+Installing file cygfile:///share/proj/alhpgn.gsb
+Installing file cygfile:///share/proj/arhpgn.gsb
+Installing file cygfile:///share/proj/azhpgn.gsb
+Installing file cygfile:///share/proj/cnhpgn.gsb
+Installing file cygfile:///share/proj/cohpgn.gsb
+Installing file cygfile:///share/proj/cshpgn.gsb
+Installing file cygfile:///share/proj/emhpgn.gsb
+Installing file cygfile:///share/proj/eshpgn.gsb
+Installing file cygfile:///share/proj/ethpgn.gsb
+Installing file cygfile:///share/proj/flhpgn.gsb
+Installing file cygfile:///share/proj/gahpgn.gsb
+Installing file cygfile:///share/proj/guhpgn.gsb
+Installing file cygfile:///share/proj/hihpgn.gsb
+Installing file cygfile:///share/proj/iahpgn.gsb
+Installing file cygfile:///share/proj/ilhpgn.gsb
+Installing file cygfile:///share/proj/inhpgn.gsb
+Installing file cygfile:///share/proj/kshpgn.gsb
+Installing file cygfile:///share/proj/kyhpgn.gsb
+Installing file cygfile:///share/proj/lahpgn.gsb
+Installing file cygfile:///share/proj/mdhpgn.gsb
+Installing file cygfile:///share/proj/mehpgn.gsb
+Installing file cygfile:///share/proj/mihpgn.gsb
+Installing file cygfile:///share/proj/mnhpgn.gsb
+Installing file cygfile:///share/proj/mohpgn.gsb
+Installing file cygfile:///share/proj/mshpgn.gsb
+Installing file cygfile:///share/proj/nbhpgn.gsb
+Installing file cygfile:///share/proj/nchpgn.gsb
+Installing file cygfile:///share/proj/ndhpgn.gsb
+Installing file cygfile:///share/proj/nehpgn.gsb
+Installing file cygfile:///share/proj/njhpgn.gsb
+Installing file cygfile:///share/proj/nmhpgn.gsb
+Installing file cygfile:///share/proj/nvhpgn.gsb
+Installing file cygfile:///share/proj/nyhpgn.gsb
+Installing file cygfile:///share/proj/ohhpgn.gsb
+Installing file cygfile:///share/proj/okhpgn.gsb
+Installing file cygfile:///share/proj/pahpgn.gsb
+Installing file cygfile:///share/proj/pvhpgn.gsb
+Installing file cygfile:///share/proj/schpgn.gsb
+Installing file cygfile:///share/proj/sdhpgn.gsb
+Installing file cygfile:///share/proj/tnhpgn.gsb
+Installing file cygfile:///share/proj/uthpgn.gsb
+Installing file cygfile:///share/proj/vahpgn.gsb
+Installing file cygfile:///share/proj/wihpgn.gsb
+Installing file cygfile:///share/proj/wmhpgn.gsb
+Installing file cygfile:///share/proj/wohpgn.gsb
+Installing file cygfile:///share/proj/wshpgn.gsb
+Installing file cygfile:///share/proj/wthpgn.gsb
+Installing file cygfile:///share/proj/wvhpgn.gsb
+Installing file cygfile:///share/proj/wyhpgn.gsb
+2020/06/28 14:08:23 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/setup/setup-1.0.7-16.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/osgeo4w-setup.exe
+Installing file cygfile:///bin/setup-test.bat.tmpl
+Installing file cygfile:///bin/setup.bat.tmpl
+Installing file cygfile:///etc/
+Installing file cygfile:///etc/postinstall/
+Installing file cygfile:///etc/postinstall/setup.bat
+Installing file cygfile:///etc/preremove/
+Installing file cygfile:///etc/preremove/setup.bat
+2020/06/28 14:08:23 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/shell/shell-1.0.2-4.tar.bz2
+Installing file cygfile:///OSGeo4W.ico
+Installing file cygfile:///OSGeo4W.bat
+Installing file cygfile:///etc/postinstall/shell.bat
+Installing file cygfile:///etc/preremove/shell.bat
+Installing file cygfile:///bin/o-help.bat
+2020/06/28 14:08:23 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/spatialite/spatialite-4.3.0a-6.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/mod_spatialite.dll
+Installing file cygfile:///bin/spatialite.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/spatialite/
+Installing file cygfile:///include/spatialite/control_points.h
+Installing file cygfile:///include/spatialite/debug.h
+Installing file cygfile:///include/spatialite/gaiaaux.h
+Installing file cygfile:///include/spatialite/gaiaexif.h
+Installing file cygfile:///include/spatialite/gaiageo.h
+Installing file cygfile:///include/spatialite/gaiamatrix.h
+Installing file cygfile:///include/spatialite/geopackage.h
+Installing file cygfile:///include/spatialite/gg_advanced.h
+Installing file cygfile:///include/spatialite/gg_const.h
+Installing file cygfile:///include/spatialite/gg_core.h
+Installing file cygfile:///include/spatialite/gg_dxf.h
+Installing file cygfile:///include/spatialite/gg_dynamic.h
+Installing file cygfile:///include/spatialite/gg_formats.h
+Installing file cygfile:///include/spatialite/gg_mbr.h
+Installing file cygfile:///include/spatialite/gg_structs.h
+Installing file cygfile:///include/spatialite/gg_wfs.h
+Installing file cygfile:///include/spatialite/gg_xml.h
+Installing file cygfile:///include/spatialite/spatialite.h
+Installing file cygfile:///include/spatialite/sqlite.h
+Installing file cygfile:///include/spatialite.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/spatialite.lib
+Installing file cygfile:///lib/spatialite_i.lib
+2020/06/28 14:08:24 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/sqlite3/sqlite3-3.29.0-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/sqlite3.dll
+Installing file cygfile:///bin/sqlite3.exe
+Installing file cygfile:///include/
+Installing file cygfile:///include/sqlite3.h
+Installing file cygfile:///include/sqlite3ext.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/sqlite3_i.lib
+2020/06/28 14:08:24 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/szip/szip-2.1.1-1.tar.bz2
+Installing file cygfile:///include/
+Installing file cygfile:///include/ricehdf.h
+Installing file cygfile:///include/SZconfig.h
+Installing file cygfile:///include/szip_adpt.h
+Installing file cygfile:///include/szlib.h
+Installing file cygfile:///cmake/
+Installing file cygfile:///cmake/szip-config-version.cmake
+Installing file cygfile:///cmake/szip-config.cmake
+Installing file cygfile:///cmake/szip-targets-release.cmake
+Installing file cygfile:///cmake/szip-targets.cmake
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/libszip.lib
+Installing file cygfile:///lib/szip.lib
+Installing file cygfile:///bin/szip.dll
+2020/06/28 14:08:24 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xerces-c/xerces-c-3.2.0-1.tar.bz2
+Installing file cygfile:///bin/xerces-c_3_2.dll
+2020/06/28 14:08:24 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/xz/xz-5.2.3-1.tar.bz2
+Installing file cygfile:///bin/liblzma.dll
+2020/06/28 14:08:24 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zlib/zlib-1.2.8-1.tar.bz2
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/zlib1.dll
+Installing file cygfile:///include/
+Installing file cygfile:///include/crc32.h
+Installing file cygfile:///include/deflate.h
+Installing file cygfile:///include/gzguts.h
+Installing file cygfile:///include/inffast.h
+Installing file cygfile:///include/inffixed.h
+Installing file cygfile:///include/inflate.h
+Installing file cygfile:///include/inftrees.h
+Installing file cygfile:///include/trees.h
+Installing file cygfile:///include/zconf.h
+Installing file cygfile:///include/zlib.h
+Installing file cygfile:///include/zutil.h
+Installing file cygfile:///lib/
+Installing file cygfile:///lib/zdll.lib
+Installing file cygfile:///lib/zlib.lib
+2020/06/28 14:08:24 Extracting from file://C:\Users\BOVICT~1\AppData\Local\Temp/http%3a%2f%2fdownload.osgeo.org%2fosgeo4w%2f/x86_64/release/zstd/zstd-1.4.4-1.tar.bz2
+Installing file cygfile:///bin/zstd.dll
+Visited: 43 nodes out of 472 while creating dependency order.
+Dependency order of packages: msvcrt2008 msvcrt2010 msvcrt msvcrt2015 openssl10 openssl curl-ca-bundle curl setup shell expat iconv freexl libpng libjpeg proj-hpgn proj-datumgrid sqlite3 libjpeg12 zlib xz libtiff proj-dev-data proj-dev geos libmysql szip hdf5 netcdf libpq xerces-c hdf4 ogdi iconv-vc14 libpng-vc14 openjpeg proj libxml2 liblwgeom msvc2015 spatialite zstd gdal-dev 
+2020/06/28 14:08:24 running: cmd.exe /c "d:\gdal\\etc\postinstall\msvcrt-2008.bat"
+
+d:\gdal>for %f in ("C:\Users\BOVICT~1\AppData\Local\Temp") do call set TEMPDRIVE=%~df 
+
+d:\gdal>call set TEMPDRIVE=C: 
+
+d:\gdal>cd C:\Users\BOVICT~1\AppData\Local\Temp 
+
+d:\gdal>"d:\gdal\bin\vcredist-2008-sp1-x64.exe" /q 
+
+d:\gdal>if errorlevel 3010 echo1>"d:\gdal\etc\reboot" 
+
+d:\gdal>del "d:\gdal\bin\vcredist-2008-sp1-x64.exe" 
+2020/06/28 14:08:27 running: cmd.exe /c "d:\gdal\\etc\postinstall\msvcrt-2010.bat"
+
+d:\gdal>for %f in ("C:\Users\BOVICT~1\AppData\Local\Temp") do call set TEMPDRIVE=%~df 
+
+d:\gdal>call set TEMPDRIVE=C: 
+
+d:\gdal>cd C:\Users\BOVICT~1\AppData\Local\Temp 
+
+d:\gdal>"d:\gdal\bin\vcredist-2010-x64.exe" /q /norestart 
+
+d:\gdal>if errorlevel 3010 echo1>"d:\gdal\etc\reboot" 
+
+d:\gdal>del "d:\gdal\bin\vcredist-2010-x64.exe" 
+2020/06/28 14:08:31 running: cmd.exe /c "d:\gdal\\etc\postinstall\msvcrt2015.bat"
+
+d:\gdal>for %f in ("C:\Users\BOVICT~1\AppData\Local\Temp") do call set TEMPDRIVE=%~df 
+
+d:\gdal>call set TEMPDRIVE=C: 
+
+d:\gdal>cd "C:\Users\BOVICT~1\AppData\Local\Temp" 
+
+d:\gdal>"d:\gdal\bin\vcredist_2015_x64.exe" /q /norestart 
+
+d:\gdal>if errorlevel 3010 echo1>"d:\gdal\etc\reboot" 
+
+d:\gdal>del "d:\gdal\bin\vcredist_2015_x64.exe" 
+d:\gdal\bin\vcredist_2015_x64.exe
+Adgang n‘gtet.
+2020/06/28 14:08:32 running: cmd.exe /c "d:\gdal\\etc\postinstall\openssl10.bat"
+
+d:\gdal>dllupdate -oite -copy -reboot "d:\gdal\bin\libeay32.dll" 
+d:\gdal\bin\libeay32.dll: Version=1.0.2.10
+C:\Windows\system32\libeay32.dll: Version=0.0.0.0
+Target does not exist, no action.
+
+d:\gdal>dllupdate -oite -copy -reboot "d:\gdal\bin\ssleay32.dll" 
+d:\gdal\bin\ssleay32.dll: Version=1.0.2.10
+C:\Windows\system32\ssleay32.dll: Version=0.0.0.0
+Target does not exist, no action.
+2020/06/28 14:08:32 running: cmd.exe /c "d:\gdal\\etc\postinstall\openssl.bat"
+
+d:\gdal>dllupdate -oite -copy -reboot "d:\gdal\bin\libcrypto-1_1-x64.dll" 
+d:\gdal\bin\libcrypto-1_1-x64.dll: Version=1.1.1.4
+C:\Windows\system32\libcrypto-1_1-x64.dll: Version=0.0.0.0
+Target does not exist, no action.
+
+d:\gdal>dllupdate -oite -copy -reboot "d:\gdal\bin\libssl-1_1-x64.dll" 
+d:\gdal\bin\libssl-1_1-x64.dll: Version=1.1.1.4
+C:\Windows\system32\libssl-1_1-x64.dll: Version=0.0.0.0
+Target does not exist, no action.
+2020/06/28 14:08:32 running: cmd.exe /c "d:\gdal\\etc\postinstall\setup.bat"
+
+d:\gdal>nircmd shortcut "d:\gdal\bin\nircmd.exe" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs/OSGeo4W" "Setup" "exec hide ~qd:\gdal\bin\setup.bat~q" "d:\gdal\OSGeo4W.ico" 
+
+d:\gdal>textreplace -std -t bin/setup.bat 
+
+d:\gdal>textreplace -std -t bin/setup-test.bat 
+2020/06/28 14:08:32 running: cmd.exe /c "d:\gdal\\etc\postinstall\shell.bat"
+
+d:\gdal>if not 1 == 0 mkdir "C:\ProgramData\Microsoft\Windows\Start Menu\Programs/OSGeo4W" 
+A subdirectory or file C:\ProgramData\Microsoft\Windows\Start Menu\Programs/OSGeo4W already exists.
+
+d:\gdal>if not 1 == 0 xxmklink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs/OSGeo4W\OSGeo4W Shell.lnk" "d:\gdal\OSGeo4W.bat" " " \ "OSGeo for Windows command shell" 1 "d:\gdal\OSGeo4W.ico" 
+
+XXMkLink     ver 1.00    (c)2005 Copyright  Pixelab, Inc.
+
+The shortut created as follows
+
+Shortcut path:     C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OSGeo4W\OSGeo4W Shell.lnk
+Target object:     d:\gdal\OSGeo4W.bat
+Arguments;          
+Working Directory: \
+Description:       OSGeo for Windows command shell
+Display Mode:      Normal Window (1)
+Icon file:         d:\gdal\OSGeo4W.ico
+
+
+d:\gdal>if not 0 == 0 mkdir "C:\ProgramData\Microsoft\Windows\Start Menu\Programs/OSGeo4W" 
+
+d:\gdal>if not 0 == 0 xxmklink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs/OSGeo4W\OSGeo4W Shell.lnk" "d:\gdal\OSGeo4W.bat" " " \ "OSGeo for Windows command shell" 1 "d:\gdal\OSGeo4W.ico" 
+2020/06/28 14:08:32 running: cmd.exe /c "d:\gdal\\etc\postinstall\netcdf.bat"
+
+d:\gdal>textreplace -std -t "d:\gdal"\bin\nc-config 
+2020/07/06 10:06:15 note: Installation Complete
+2020/07/06 10:06:15 Ending OSGeo4W install

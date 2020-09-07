@@ -1,0 +1,10 @@
+@echo off
+chcp 65001
+set OSGEO4W_ROOT=*homedir*\gdal
+set path=%OSGEO4W_ROOT%\bin;%OSGEO4W_ROOT%\apps\proj-dev\bin;%OSGEO4W_ROOT%\apps\gdal-dev\bin;%WINDIR%\system32;%WINDIR%;%WINDIR%\system32\WBem
+set JPEGMEM=1000000
+SET PROJ_LIB=%OSGEO4W_ROOT%\share\proj
+SET PGCLIENTENCODING=*encoding*
+*commandline*
+REM pause
+

@@ -1,0 +1,7 @@
+C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\bin\Release\sporimport.exe
+C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\bin\Release\sporimport.pdb
+C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\obj\x86\Release\sporimport.Form1.resources
+C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\obj\x86\Release\sporimport.Properties.Resources.resources
+C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\obj\x86\Release\gnssimport.csproj.GenerateResource.Cache
+C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\obj\x86\Release\sporimport.exe
+C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\obj\x86\Release\sporimport.pdb
