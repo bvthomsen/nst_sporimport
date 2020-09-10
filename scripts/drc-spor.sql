@@ -599,6 +599,18 @@ BEGIN
 END
 GO
 
+CREATE PROCEDURE [transit].[TruncateTables] @gnss_or_test varchar(50)
+AS
+BEGIN 
+  EXEC ('TRUNCATE TABLE gnssdata.' + @gnss_or_test + '_flader')
+  EXEC ('TRUNCATE TABLE gnssdata.' + @gnss_or_test + '_flader_duplikater')
+  EXEC ('TRUNCATE TABLE gnssdata.' + @gnss_or_test + '_linjer')
+  EXEC ('TRUNCATE TABLE gnssdata.' + @gnss_or_test + '_linjer_duplikater')
+  EXEC ('TRUNCATE TABLE gnssdata.' + @gnss_or_test + '_punkter')
+  EXEC ('TRUNCATE TABLE gnssdata.' + @gnss_or_test + '_punkter_duplikater')
+END
+GO
+
 --
 -- Definition for indices : 
 --
