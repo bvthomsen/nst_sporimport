@@ -6,3 +6,10 @@ C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\o
 C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\obj\x86\Release\sporimport.pdb
 C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\obj\x86\Release\sporimport.Form1.resources
 C:\Users\Bo Victor\Documents\Visual Studio 2010\Projects\sporimport\sporimport\obj\x86\Release\sporimport.csprojResolveAssemblyReference.cache
+D:\GitHub\nst_sporimport\sporimport_csharp\sporimport\obj\x86\Release\sporimport.exe
+D:\GitHub\nst_sporimport\sporimport_csharp\sporimport\obj\x86\Release\sporimport.pdb
+D:\GitHub\nst_sporimport\sporimport_csharp\sporimport\bin\Release\sporimport.exe
+D:\GitHub\nst_sporimport\sporimport_csharp\sporimport\bin\Release\sporimport.pdb
+D:\GitHub\nst_sporimport\sporimport_csharp\sporimport\obj\x86\Release\sporimport.Form1.resources
+D:\GitHub\nst_sporimport\sporimport_csharp\sporimport\obj\x86\Release\sporimport.Properties.Resources.resources
+D:\GitHub\nst_sporimport\sporimport_csharp\sporimport\obj\x86\Release\sporimport.csproj.GenerateResource.Cache

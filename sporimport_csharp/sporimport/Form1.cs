@@ -22,8 +22,10 @@ namespace sporimport
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
             string[] lines = File.ReadAllLines(Application.StartupPath + "\\profiles.txt");
-            Dictionary<string,string> dictionary = lines.Select(line => line.Split('#')).ToDictionary(data => data[0], data => data[1]);
+            Dictionary<string, string> dictionary = lines.Where(line => !line.StartsWith("*")).Select(line => line.Split('#')).ToDictionary(data => data[0], data => data[1]);
+            
             cbDatabase.DataSource = new BindingSource(dictionary, null);
             cbDatabase.DisplayMember = "Key";
             cbDatabase.ValueMember = "Value";
